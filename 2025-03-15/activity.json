@@ -63,9 +63,9 @@
       "averageChangeSize": 213
     },
     "sms": {
-      "totalLinesAdded": 408,
+      "totalLinesAdded": 410,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 15,
+      "totalActiveTime": 17,
       "files": {
         "c:\\Users\\lenovo\\Documents\\sms\\.vscode\\settings.json": [
           {
@@ -219,6 +219,36 @@
             "fileName": "c:\\Users\\lenovo\\Documents\\sms\\MainActivity.java",
             "fileType": ".java",
             "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "sms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-15T12:26:10.605Z",
+            "fileName": "c:\\Users\\lenovo\\Documents\\sms\\MainActivity.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "sms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\lenovo\\Documents\\sms\\SmsReceiver.java": [
+          {
+            "timestamp": "2025-03-15T12:27:41.896Z",
+            "fileName": "c:\\Users\\lenovo\\Documents\\sms\\SmsReceiver.java",
+            "fileType": ".java",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "sms",
             "content": {
