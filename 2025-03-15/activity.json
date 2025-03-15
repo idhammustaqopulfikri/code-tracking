@@ -35,9 +35,9 @@
       "averageChangeSize": 213
     },
     "sms": {
-      "totalLinesAdded": 297,
+      "totalLinesAdded": 405,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Users\\lenovo\\Documents\\sms\\.vscode\\settings.json": [
           {
@@ -68,6 +68,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-15T11:43:09.206Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "sms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ],
@@ -127,6 +141,50 @@
             },
             "duration": 1,
             "language": "xml"
+          }
+        ],
+        "c:\\Users\\lenovo\\Documents\\sms\\MainActivity.java": [
+          {
+            "timestamp": "2025-03-15T11:38:50.908Z",
+            "fileName": "c:\\Users\\lenovo\\Documents\\sms\\MainActivity.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "sms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-15T11:38:59.943Z",
+            "fileName": "c:\\Users\\lenovo\\Documents\\sms\\MainActivity.java",
+            "fileType": ".java",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "sms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-15T11:40:19.116Z",
+            "fileName": "c:\\Users\\lenovo\\Documents\\sms\\MainActivity.java",
+            "fileType": ".java",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "sms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
           }
         ]
       },
