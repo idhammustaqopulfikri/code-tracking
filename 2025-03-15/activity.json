@@ -35,9 +35,9 @@
       "averageChangeSize": 213
     },
     "sms": {
-      "totalLinesAdded": 223,
+      "totalLinesAdded": 291,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\lenovo\\Documents\\sms\\.vscode\\settings.json": [
           {
@@ -69,6 +69,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\lenovo\\Documents\\sms\\Activity_Main.xml": [
+          {
+            "timestamp": "2025-03-15T11:24:18.382Z",
+            "fileName": "c:\\Users\\lenovo\\Documents\\sms\\Activity_Main.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "sms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-03-15T11:24:32.748Z",
+            "fileName": "c:\\Users\\lenovo\\Documents\\sms\\Activity_Main.xml",
+            "fileType": ".xml",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "sms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
           }
         ]
       },
