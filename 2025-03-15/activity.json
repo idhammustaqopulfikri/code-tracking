@@ -33,6 +33,56 @@
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json"
       ],
       "averageChangeSize": 213
+    },
+    "sms": {
+      "totalLinesAdded": 223,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lenovo\\Documents\\sms\\.vscode\\settings.json": [
+          {
+            "timestamp": "2025-03-15T11:18:48.805Z",
+            "fileName": "c:\\Users\\lenovo\\Documents\\sms\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "sms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-03-15T11:19:20.941Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 213,
+            "linesRemoved": 0,
+            "projectName": "sms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lenovo\\Documents\\sms\\.vscode\\settings.json",
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 111.5
     }
   },
   "totalActiveTime": 0,
