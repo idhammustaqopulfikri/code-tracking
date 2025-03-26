@@ -3,8 +3,8 @@
   "projects": {
     "autodidak": {
       "totalLinesAdded": 1671,
-      "totalLinesRemoved": 321,
-      "totalActiveTime": 9,
+      "totalLinesRemoved": 652,
+      "totalActiveTime": 17,
       "files": {
         "c:\\autodidak\\perpus\\.env": [
           {
@@ -124,6 +124,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-03-26T14:40:01.626Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 324,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
           }
         ],
         "c:\\autodidak\\SiDesa\\routes\\web.php": [
@@ -169,6 +183,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-26T14:36:05.180Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "php"
           }
         ],
