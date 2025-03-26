@@ -3,8 +3,8 @@
   "projects": {
     "autodidak": {
       "totalLinesAdded": 1720,
-      "totalLinesRemoved": 662,
-      "totalActiveTime": 36,
+      "totalLinesRemoved": 734,
+      "totalActiveTime": 38,
       "files": {
         "c:\\autodidak\\perpus\\.env": [
           {
@@ -211,6 +211,48 @@
               "removed": []
             },
             "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-26T15:11:46.897Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-26T15:12:14.653Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-26T15:13:00.297Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
