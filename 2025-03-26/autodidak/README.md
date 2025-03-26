@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1791                                          |
+| **Lines Added** (➕)   | 1815                                          |
 | **Lines Removed** (➖) | 734                                        |
-| **Net Change** (↕)    | 1057                |
-| **Active Time** (⌚)   | 68 minutes |
+| **Net Change** (↕)    | 1081                |
+| **Active Time** (⌚)   | 76 minutes |
 
 
 ## Modified Files
@@ -24,7 +24,7 @@
 - **app.blade.php** (+1, -0)
 - **Resident.php** (+13, -0)
 - **2025_03_26_151708_create_residents_table.php** (+39, -0)
-- **ResidentController.php** (+19, -0)
+- **ResidentController.php** (+43, -0)
 
 ## Visualizations
 
@@ -35,7 +35,7 @@ pie showData
 title Lines changed by file type
 "unknown" : 132
 ".json" : 459
-".php" : 1934
+".php" : 1958
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "04h" : 1
 "05h" : 1
 "21h" : 21
-"22h" : 18
+"22h" : 22
 ```
 
 
-> **Last Updated:** 3/26/2025, 10:50:05 PM
+> **Last Updated:** 3/26/2025, 10:55:05 PM
