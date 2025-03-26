@@ -2,9 +2,9 @@
   "date": "2025-03-27",
   "projects": {
     "autodidak": {
-      "totalLinesAdded": 144,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 147,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 24,
       "files": {
         "c:\\autodidak\\SiDesa\\routes\\web.php": [
           {
@@ -81,6 +81,62 @@
           },
           {
             "timestamp": "2025-03-26T21:53:29.041Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-26T21:55:44.052Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-26T21:57:46.161Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-26T21:59:02.428Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-26T21:59:25.767Z",
             "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\index.blade.php",
             "fileType": ".php",
             "linesAdded": 1,
