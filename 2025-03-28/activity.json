@@ -2,9 +2,9 @@
   "date": "2025-03-28",
   "projects": {
     "autodidak": {
-      "totalLinesAdded": 422,
+      "totalLinesAdded": 466,
       "totalLinesRemoved": 8,
-      "totalActiveTime": 19,
+      "totalActiveTime": 22,
       "files": {
         "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\create.blade.php": [
           {
@@ -103,6 +103,62 @@
               "removed": []
             },
             "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-27T21:55:58.625Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-27T21:56:12.384Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-27T21:56:21.036Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-27T21:57:03.643Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
