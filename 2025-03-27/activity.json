@@ -2,9 +2,9 @@
   "date": "2025-03-27",
   "projects": {
     "autodidak": {
-      "totalLinesAdded": 456,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 49,
+      "totalLinesAdded": 579,
+      "totalLinesRemoved": 17,
+      "totalActiveTime": 52,
       "files": {
         "c:\\autodidak\\SiDesa\\routes\\web.php": [
           {
@@ -377,6 +377,66 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\app.blade.php": [
+          {
+            "timestamp": "2025-03-27T14:55:49.818Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-27T14:56:10.408Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\footer.blade.php": [
+          {
+            "timestamp": "2025-03-27T14:56:47.661Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\footer.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-27T14:56:47.638Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\footer.blade.php",
+            "fileType": ".php",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
