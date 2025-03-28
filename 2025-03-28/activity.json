@@ -2,9 +2,9 @@
   "date": "2025-03-28",
   "projects": {
     "autodidak": {
-      "totalLinesAdded": 1556,
+      "totalLinesAdded": 1558,
       "totalLinesRemoved": 23,
-      "totalActiveTime": 68,
+      "totalActiveTime": 72,
       "files": {
         "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\create.blade.php": [
           {
@@ -609,6 +609,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-28T16:04:40.352Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\resident\\confirmation-delete.blade.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "php"
           }
         ],
