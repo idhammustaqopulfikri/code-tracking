@@ -2,9 +2,9 @@
   "date": "2025-03-29",
   "projects": {
     "autodidak": {
-      "totalLinesAdded": 122,
+      "totalLinesAdded": 386,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 18,
+      "totalActiveTime": 25,
       "files": {
         "c:\\autodidak\\SiDesa\\database\\migrations\\0001_01_01_000000_create_users_table.php": [
           {
@@ -151,6 +151,66 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-03-29T15:02:45.137Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 241,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ],
+        "c:\\autodidak\\SiDesa\\database\\seeders\\UserSeeder.php": [
+          {
+            "timestamp": "2025-03-29T15:03:26.583Z",
+            "fileName": "c:\\autodidak\\SiDesa\\database\\seeders\\UserSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-29T15:03:53.379Z",
+            "fileName": "c:\\autodidak\\SiDesa\\database\\seeders\\UserSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-29T15:05:29.840Z",
+            "fileName": "c:\\autodidak\\SiDesa\\database\\seeders\\UserSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ]
