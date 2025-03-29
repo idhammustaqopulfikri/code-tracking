@@ -4,14 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 60                                          |
+| **Lines Added** (➕)   | 122                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 60                |
-| **Active Time** (⌚)   | 8 minutes |
+| **Net Change** (↕)    | 122                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
 - **0001_01_01_000000_create_users_table.php** (+60, -0)
+- **Role.php** (+11, -0)
+- **RoleSeeder.php** (+27, -0)
+- **DatabaseSeeder.php** (+24, -0)
 
 ## Visualizations
 
@@ -20,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 60
+".php" : 122
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"21h" : 4
+"21h" : 9
 ```
 
 
-> **Last Updated:** 3/29/2025, 9:51:13 PM
+> **Last Updated:** 3/29/2025, 9:56:13 PM

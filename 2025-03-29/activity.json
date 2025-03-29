@@ -2,9 +2,9 @@
   "date": "2025-03-29",
   "projects": {
     "autodidak": {
-      "totalLinesAdded": 60,
+      "totalLinesAdded": 122,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalActiveTime": 18,
       "files": {
         "c:\\autodidak\\SiDesa\\database\\migrations\\0001_01_01_000000_create_users_table.php": [
           {
@@ -61,6 +61,82 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\autodidak\\SiDesa\\app\\Models\\Role.php": [
+          {
+            "timestamp": "2025-03-29T14:51:54.910Z",
+            "fileName": "c:\\autodidak\\SiDesa\\app\\Models\\Role.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
+          }
+        ],
+        "c:\\autodidak\\SiDesa\\database\\seeders\\RoleSeeder.php": [
+          {
+            "timestamp": "2025-03-29T14:53:02.289Z",
+            "fileName": "c:\\autodidak\\SiDesa\\database\\seeders\\RoleSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-29T14:53:57.762Z",
+            "fileName": "c:\\autodidak\\SiDesa\\database\\seeders\\RoleSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-29T14:54:35.903Z",
+            "fileName": "c:\\autodidak\\SiDesa\\database\\seeders\\RoleSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\autodidak\\SiDesa\\database\\seeders\\DatabaseSeeder.php": [
+          {
+            "timestamp": "2025-03-29T14:55:06.179Z",
+            "fileName": "c:\\autodidak\\SiDesa\\database\\seeders\\DatabaseSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
