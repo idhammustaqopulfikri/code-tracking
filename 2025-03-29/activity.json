@@ -2,9 +2,9 @@
   "date": "2025-03-29",
   "projects": {
     "autodidak": {
-      "totalLinesAdded": 587,
+      "totalLinesAdded": 591,
       "totalLinesRemoved": 56,
-      "totalActiveTime": 77,
+      "totalActiveTime": 79,
       "files": {
         "c:\\autodidak\\SiDesa\\database\\migrations\\0001_01_01_000000_create_users_table.php": [
           {
@@ -437,6 +437,34 @@
               "removed": []
             },
             "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-29T16:48:40.079Z",
+            "fileName": "c:\\autodidak\\SiDesa\\app\\Http\\Controllers\\AuthController.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-29T16:50:23.338Z",
+            "fileName": "c:\\autodidak\\SiDesa\\app\\Http\\Controllers\\AuthController.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ],
