@@ -3,7 +3,7 @@
   "projects": {
     "autodidak": {
       "totalLinesAdded": 390,
-      "totalLinesRemoved": 2,
+      "totalLinesRemoved": 9,
       "totalActiveTime": 28,
       "files": {
         "c:\\autodidak\\SiDesa\\database\\migrations\\0001_01_01_000000_create_users_table.php": [
@@ -121,6 +121,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-29T15:37:53.947Z",
+            "fileName": "c:\\autodidak\\SiDesa\\database\\seeders\\RoleSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
