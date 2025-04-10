@@ -488,9 +488,9 @@
       "averageChangeSize": 36.5
     },
     "test": {
-      "totalLinesAdded": 895,
+      "totalLinesAdded": 900,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 29,
+      "totalActiveTime": 35,
       "files": {
         "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php": [
           {
@@ -749,6 +749,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T14:31:46.638Z",
+            "fileName": "c:\\test\\booking-studio\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T14:32:16.669Z",
+            "fileName": "c:\\test\\booking-studio\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
