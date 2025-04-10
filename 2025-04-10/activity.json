@@ -488,9 +488,9 @@
       "averageChangeSize": 36.5
     },
     "test": {
-      "totalLinesAdded": 901,
+      "totalLinesAdded": 1021,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 35,
+      "totalActiveTime": 43,
       "files": {
         "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php": [
           {
@@ -853,6 +853,38 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\resources\\views\\booking.blade.php": [
+          {
+            "timestamp": "2025-04-10T14:48:04.066Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\booking.blade.php",
+            "fileType": ".php",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\resources\\views\\home.blade.php": [
+          {
+            "timestamp": "2025-04-10T14:51:21.902Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\home.blade.php",
+            "fileType": ".php",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "php"
           }
         ]
