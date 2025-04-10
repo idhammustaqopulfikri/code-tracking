@@ -80,9 +80,9 @@
       "averageChangeSize": 15.5
     },
     "booking-studio": {
-      "totalLinesAdded": 202,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 12,
+      "totalLinesAdded": 265,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 21,
       "files": {
         "c:\\tugas booking studio\\booking-studio\\.env.example": [
           {
@@ -197,6 +197,80 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tugas booking studio\\booking-studio\\app\\Http\\Controllers\\BookingController.php": [
+          {
+            "timestamp": "2025-04-10T03:31:21.289Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T03:31:22.981Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T03:32:55.198Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tugas booking studio\\booking-studio\\routes\\web.php": [
+          {
+            "timestamp": "2025-04-10T03:32:36.292Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T03:32:50.778Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "booking-studio",
             "content": {
               "added": [],

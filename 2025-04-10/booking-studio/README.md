@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 202                                          |
-| **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 200                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Lines Added** (➕)   | 265                                          |
+| **Lines Removed** (➖) | 3                                        |
+| **Net Change** (↕)    | 262                |
+| **Active Time** (⌚)   | 21 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,8 @@
 - **0001_01_01_000000_create_users_table.php** (+50, -0)
 - **2025_04_10_032351_create_bookings_table.php** (+32, -0)
 - **DatabaseSeeder.php** (+24, -2)
+- **BookingController.php** (+54, -1)
+- **web.php** (+9, -0)
 
 ## Visualizations
 
@@ -25,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".example" : 66
-".php" : 138
+".php" : 202
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +35,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 8
+"10h" : 13
 ```
 
 
-> **Last Updated:** 4/10/2025, 10:29:16 AM
+> **Last Updated:** 4/10/2025, 10:34:16 AM
