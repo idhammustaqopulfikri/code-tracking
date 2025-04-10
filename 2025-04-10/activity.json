@@ -78,6 +78,88 @@
         "c:\\tugas booking studio\\booking-studio\\database\\migrations\\2025_04_10_024916_create_bookings_table.php"
       ],
       "averageChangeSize": 15.5
+    },
+    "booking-studio": {
+      "totalLinesAdded": 146,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\tugas booking studio\\booking-studio\\.env.example": [
+          {
+            "timestamp": "2025-04-10T03:19:21.707Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\.env.example",
+            "fileType": ".example",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "example"
+          }
+        ],
+        "c:\\tugas booking studio\\booking-studio\\database\\migrations\\2025_04_10_032045_create_studios_table.php": [
+          {
+            "timestamp": "2025-04-10T03:22:18.596Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\database\\migrations\\2025_04_10_032045_create_studios_table.php",
+            "fileType": ".php",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T03:22:33.580Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\database\\migrations\\2025_04_10_032045_create_studios_table.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tugas booking studio\\booking-studio\\database\\migrations\\0001_01_01_000000_create_users_table.php": [
+          {
+            "timestamp": "2025-04-10T03:23:24.280Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "example": 0,
+        "php": 5
+      },
+      "changeFrequency": {
+        "10": 5
+      },
+      "topFiles": [
+        "c:\\tugas booking studio\\booking-studio\\database\\migrations\\2025_04_10_032045_create_studios_table.php",
+        "c:\\tugas booking studio\\booking-studio\\.env.example",
+        "c:\\tugas booking studio\\booking-studio\\database\\migrations\\0001_01_01_000000_create_users_table.php"
+      ],
+      "averageChangeSize": 36.5
     }
   },
   "totalActiveTime": 4,
