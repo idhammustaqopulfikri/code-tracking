@@ -486,6 +486,53 @@
         "c:\\tugas booking studio\\booking-studio\\database\\migrations\\0001_01_01_000000_create_users_table.php"
       ],
       "averageChangeSize": 36.5
+    },
+    "test": {
+      "totalLinesAdded": 25,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php": [
+          {
+            "timestamp": "2025-04-10T13:29:22.859Z",
+            "fileName": "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T13:29:23.804Z",
+            "fileName": "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 1
+      },
+      "changeFrequency": {
+        "20": 1
+      },
+      "topFiles": [
+        "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php"
+      ],
+      "averageChangeSize": 12.5
     }
   },
   "totalActiveTime": 4,
