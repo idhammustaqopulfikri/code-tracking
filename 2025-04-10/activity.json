@@ -488,9 +488,9 @@
       "averageChangeSize": 36.5
     },
     "test": {
-      "totalLinesAdded": 141,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 448,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 11,
       "files": {
         "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php": [
           {
@@ -552,6 +552,20 @@
             },
             "duration": 0,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T13:56:20.492Z",
+            "fileName": "c:\\test\\booking-studio\\database\\migrations\\2022_04_04_144215_create_bookings_table.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\test\\booking-studio\\database\\migrations\\2022_04_04_143907_create_arenas_table.php": [
@@ -596,6 +610,38 @@
             },
             "duration": 5,
             "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\.env": [
+          {
+            "timestamp": "2025-04-10T13:53:35.166Z",
+            "fileName": "c:\\test\\booking-studio\\.env",
+            "fileType": "unknown",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-04-10T13:55:31.076Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 241,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
