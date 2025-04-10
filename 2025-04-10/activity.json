@@ -488,7 +488,7 @@
       "averageChangeSize": 36.5
     },
     "test": {
-      "totalLinesAdded": 900,
+      "totalLinesAdded": 901,
       "totalLinesRemoved": 2,
       "totalActiveTime": 35,
       "files": {
@@ -777,6 +777,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T14:44:20.825Z",
+            "fileName": "c:\\test\\booking-studio\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
