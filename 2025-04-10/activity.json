@@ -80,9 +80,9 @@
       "averageChangeSize": 15.5
     },
     "booking-studio": {
-      "totalLinesAdded": 146,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 202,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 12,
       "files": {
         "c:\\tugas booking studio\\booking-studio\\.env.example": [
           {
@@ -137,6 +137,66 @@
             "fileType": ".php",
             "linesAdded": 50,
             "linesRemoved": 0,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tugas booking studio\\booking-studio\\database\\migrations\\2025_04_10_032351_create_bookings_table.php": [
+          {
+            "timestamp": "2025-04-10T03:24:34.047Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\database\\migrations\\2025_04_10_032351_create_bookings_table.php",
+            "fileType": ".php",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T03:26:17.649Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\database\\migrations\\2025_04_10_032351_create_bookings_table.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\tugas booking studio\\booking-studio\\database\\seeders\\DatabaseSeeder.php": [
+          {
+            "timestamp": "2025-04-10T03:27:42.349Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\database\\seeders\\DatabaseSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "booking-studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T03:27:44.076Z",
+            "fileName": "c:\\tugas booking studio\\booking-studio\\database\\seeders\\DatabaseSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "booking-studio",
             "content": {
               "added": [],
