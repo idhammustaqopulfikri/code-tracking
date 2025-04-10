@@ -488,9 +488,9 @@
       "averageChangeSize": 36.5
     },
     "test": {
-      "totalLinesAdded": 486,
+      "totalLinesAdded": 529,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 16,
+      "totalActiveTime": 21,
       "files": {
         "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php": [
           {
@@ -671,6 +671,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\app\\Models\\Arena.php": [
+          {
+            "timestamp": "2025-04-10T14:04:38.808Z",
+            "fileName": "c:\\test\\booking-studio\\app\\Models\\Arena.php",
+            "fileType": ".php",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "php"
           }
         ]
