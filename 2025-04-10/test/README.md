@@ -4,19 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 448                                          |
+| **Lines Added** (➕)   | 486                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 447                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Net Change** (↕)    | 485                |
+| **Active Time** (⌚)   | 16 minutes |
 
 
 ## Modified Files
 - **DatabaseSeeder.php** (+25, -0)
 - **2019_08_19_000000_create_failed_jobs_table.php** (+37, -0)
-- **2022_04_04_144215_create_bookings_table.php** (+41, -1)
+- **2022_04_04_144215_create_bookings_table.php** (+42, -1)
 - **2022_04_04_143907_create_arenas_table.php** (+38, -0)
 - **.env** (+66, -0)
 - **settings.json** (+241, -0)
+- **RoleSeedPivot.php** (+37, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 142
+".php" : 180
 "unknown" : 66
 ".json" : 241
 ```
@@ -35,8 +36,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"20h" : 10
+"20h" : 11
+"21h" : 1
 ```
 
 
-> **Last Updated:** 4/10/2025, 8:57:33 PM
+> **Last Updated:** 4/10/2025, 9:02:33 PM

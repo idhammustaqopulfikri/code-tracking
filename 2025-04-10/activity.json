@@ -488,9 +488,9 @@
       "averageChangeSize": 36.5
     },
     "test": {
-      "totalLinesAdded": 448,
+      "totalLinesAdded": 486,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 11,
+      "totalActiveTime": 16,
       "files": {
         "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php": [
           {
@@ -565,6 +565,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T14:00:33.797Z",
+            "fileName": "c:\\test\\booking-studio\\database\\migrations\\2022_04_04_144215_create_bookings_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ],
@@ -642,6 +656,22 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "c:\\test\\booking-studio\\database\\seeders\\RoleSeedPivot.php": [
+          {
+            "timestamp": "2025-04-10T13:57:34.538Z",
+            "fileName": "c:\\test\\booking-studio\\database\\seeders\\RoleSeedPivot.php",
+            "fileType": ".php",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
           }
         ]
       },
