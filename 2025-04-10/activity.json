@@ -2,7 +2,7 @@
   "date": "2025-04-10",
   "projects": {
     "tugas booking studio": {
-      "totalLinesAdded": 62,
+      "totalLinesAdded": 303,
       "totalLinesRemoved": 0,
       "totalActiveTime": 4,
       "files": {
@@ -64,6 +64,22 @@
             },
             "duration": 1,
             "language": "php"
+          }
+        ],
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-04-10T11:07:27.920Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 241,
+            "linesRemoved": 0,
+            "projectName": "tugas booking studio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
