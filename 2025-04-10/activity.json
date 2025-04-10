@@ -488,9 +488,9 @@
       "averageChangeSize": 36.5
     },
     "test": {
-      "totalLinesAdded": 103,
+      "totalLinesAdded": 141,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 8,
       "files": {
         "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php": [
           {
@@ -551,6 +551,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\database\\migrations\\2022_04_04_143907_create_arenas_table.php": [
+          {
+            "timestamp": "2025-04-10T13:43:00.140Z",
+            "fileName": "c:\\test\\booking-studio\\database\\migrations\\2022_04_04_143907_create_arenas_table.php",
+            "fileType": ".php",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T13:43:03.532Z",
+            "fileName": "c:\\test\\booking-studio\\database\\migrations\\2022_04_04_143907_create_arenas_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T13:47:31.485Z",
+            "fileName": "c:\\test\\booking-studio\\database\\migrations\\2022_04_04_143907_create_arenas_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "php"
           }
         ]
