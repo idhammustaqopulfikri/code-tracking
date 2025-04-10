@@ -488,9 +488,9 @@
       "averageChangeSize": 36.5
     },
     "test": {
-      "totalLinesAdded": 1190,
-      "totalLinesRemoved": 49,
-      "totalActiveTime": 50,
+      "totalLinesAdded": 1315,
+      "totalLinesRemoved": 51,
+      "totalActiveTime": 60,
       "files": {
         "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php": [
           {
@@ -870,6 +870,20 @@
             },
             "duration": 4,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T15:13:36.842Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\booking.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\test\\booking-studio\\resources\\views\\home.blade.php": [
@@ -957,6 +971,50 @@
               "removed": []
             },
             "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T15:12:52.403Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\auth\\login.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\resources\\views\\auth\\register.blade.php": [
+          {
+            "timestamp": "2025-04-10T15:15:39.512Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\auth\\register.blade.php",
+            "fileType": ".php",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T15:16:28.370Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\auth\\register.blade.php",
+            "fileType": ".php",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
