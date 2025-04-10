@@ -488,9 +488,9 @@
       "averageChangeSize": 36.5
     },
     "test": {
-      "totalLinesAdded": 529,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 895,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 29,
       "files": {
         "c:\\test\\booking-studio\\database\\seeders\\DatabaseSeeder.php": [
           {
@@ -687,6 +687,130 @@
               "removed": []
             },
             "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T14:23:25.051Z",
+            "fileName": "c:\\test\\booking-studio\\app\\Models\\Arena.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\resources\\views\\admin\\arenas\\create.blade.php": [
+          {
+            "timestamp": "2025-04-10T14:23:43.065Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\admin\\arenas\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\resources\\views\\admin\\bookings\\index.blade.php": [
+          {
+            "timestamp": "2025-04-10T14:24:19.319Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\admin\\bookings\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 135,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\routes\\web.php": [
+          {
+            "timestamp": "2025-04-10T14:25:34.903Z",
+            "fileName": "c:\\test\\booking-studio\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\routes\\console.php": [
+          {
+            "timestamp": "2025-04-10T14:26:05.423Z",
+            "fileName": "c:\\test\\booking-studio\\routes\\console.php",
+            "fileType": ".php",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T14:26:07.417Z",
+            "fileName": "c:\\test\\booking-studio\\routes\\console.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\routes\\channels.php": [
+          {
+            "timestamp": "2025-04-10T14:26:49.395Z",
+            "fileName": "c:\\test\\booking-studio\\routes\\channels.php",
+            "fileType": ".php",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\routes\\api.php": [
+          {
+            "timestamp": "2025-04-10T14:27:13.350Z",
+            "fileName": "c:\\test\\booking-studio\\routes\\api.php",
+            "fileType": ".php",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
