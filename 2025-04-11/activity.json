@@ -2,9 +2,9 @@
   "date": "2025-04-11",
   "projects": {
     "test": {
-      "totalLinesAdded": 205,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 567,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -20,6 +20,108 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\test\\booking-studio\\resources\\views\\layouts\\admin.blade.php": [
+          {
+            "timestamp": "2025-04-11T15:37:54.144Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\layouts\\admin.blade.php",
+            "fileType": ".php",
+            "linesAdded": 256,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-11T15:37:55.025Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\layouts\\admin.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\resources\\views\\layouts\\app.blade.php": [
+          {
+            "timestamp": "2025-04-11T15:38:45.917Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-11T15:39:59.216Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-11T15:40:12.728Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-11T15:40:34.619Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-11T15:41:09.119Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },
