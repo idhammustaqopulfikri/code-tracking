@@ -2,9 +2,9 @@
   "date": "2025-04-11",
   "projects": {
     "test": {
-      "totalLinesAdded": 854,
-      "totalLinesRemoved": 105,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 1200,
+      "totalLinesRemoved": 147,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -205,6 +205,110 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\resources\\views\\auth\\register.blade.php": [
+          {
+            "timestamp": "2025-04-11T15:46:57.856Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\auth\\register.blade.php",
+            "fileType": ".php",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-11T15:46:58.986Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\auth\\register.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\resources\\views\\admin\\arenas\\create.blade.php": [
+          {
+            "timestamp": "2025-04-11T15:48:48.483Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\admin\\arenas\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-11T15:49:09.049Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\admin\\arenas\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 36,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-11T15:50:00.543Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\admin\\arenas\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-11T15:50:01.407Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\admin\\arenas\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\test\\booking-studio\\resources\\views\\admin\\arenas\\edit.blade.php": [
+          {
+            "timestamp": "2025-04-11T15:50:45.436Z",
+            "fileName": "c:\\test\\booking-studio\\resources\\views\\admin\\arenas\\edit.blade.php",
+            "fileType": ".php",
+            "linesAdded": 93,
+            "linesRemoved": 0,
             "projectName": "test",
             "content": {
               "added": [],
