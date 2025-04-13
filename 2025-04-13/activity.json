@@ -2,9 +2,9 @@
   "date": "2025-04-13",
   "projects": {
     "autodidak": {
-      "totalLinesAdded": 409,
+      "totalLinesAdded": 463,
       "totalLinesRemoved": 22,
-      "totalActiveTime": 37,
+      "totalActiveTime": 41,
       "files": {
         "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\sidebar.blade.php": [
           {
@@ -294,6 +294,38 @@
             },
             "duration": 5,
             "language": "json"
+          }
+        ],
+        "c:\\autodidak\\SiDesa\\resources\\views\\pages\\account-request\\confirmation-delete.blade.php": [
+          {
+            "timestamp": "2025-04-13T13:28:05.183Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\account-request\\confirmation-delete.blade.php",
+            "fileType": ".php",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          }
+        ],
+        "c:\\autodidak\\SiDesa\\resources\\views\\pages\\account-request\\confirmation-approve.blade.php": [
+          {
+            "timestamp": "2025-04-13T13:28:39.202Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\pages\\account-request\\confirmation-approve.blade.php",
+            "fileType": ".php",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },
