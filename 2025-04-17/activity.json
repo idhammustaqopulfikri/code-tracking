@@ -2,9 +2,9 @@
   "date": "2025-04-17",
   "projects": {
     "belajar flutter": {
-      "totalLinesAdded": 672,
-      "totalLinesRemoved": 15,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 675,
+      "totalLinesRemoved": 18,
+      "totalActiveTime": 32,
       "files": {
         "c:\\belajar flutter\\sms\\lib\\hello_word.dart": [
           {
@@ -267,6 +267,90 @@
               "removed": []
             },
             "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-04-17T13:31:56.873Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\ui\\sms_form.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-04-17T13:34:43.645Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\ui\\sms_form.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-04-17T13:35:00.480Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\ui\\sms_form.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-04-17T13:35:17.649Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\ui\\sms_form.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-04-17T13:35:36.258Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\ui\\sms_form.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-04-17T13:35:40.497Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\ui\\sms_form.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ]
