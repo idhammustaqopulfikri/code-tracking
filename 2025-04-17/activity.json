@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-17",
+  "projects": {
+    "belajar flutter": {
+      "totalLinesAdded": 2,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\belajar flutter\\sms\\lib\\hello_word.dart": [
+          {
+            "timestamp": "2025-04-17T04:19:57.942Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\hello_word.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-04-17T04:20:22.312Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\hello_word.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "c:\\belajar flutter\\sms\\lib\\hello_word.dart"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "dart"
+  ]
+}
