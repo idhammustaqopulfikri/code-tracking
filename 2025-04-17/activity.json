@@ -2,7 +2,7 @@
   "date": "2025-04-17",
   "projects": {
     "belajar flutter": {
-      "totalLinesAdded": 609,
+      "totalLinesAdded": 672,
       "totalLinesRemoved": 15,
       "totalActiveTime": 22,
       "files": {
@@ -246,6 +246,20 @@
             "fileName": "c:\\belajar flutter\\sms\\lib\\ui\\sms_form.dart",
             "fileType": ".dart",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-04-17T13:29:53.968Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\ui\\sms_form.dart",
+            "fileType": ".dart",
+            "linesAdded": 63,
             "linesRemoved": 0,
             "projectName": "belajar flutter",
             "content": {
