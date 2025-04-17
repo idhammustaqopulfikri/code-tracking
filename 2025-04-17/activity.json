@@ -3,7 +3,7 @@
   "projects": {
     "belajar flutter": {
       "totalLinesAdded": 50,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 15,
       "totalActiveTime": 2,
       "files": {
         "c:\\belajar flutter\\sms\\lib\\hello_word.dart": [
@@ -63,6 +63,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-04-17T04:31:57.651Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ]
