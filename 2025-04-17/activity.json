@@ -2,9 +2,9 @@
   "date": "2025-04-17",
   "projects": {
     "belajar flutter": {
-      "totalLinesAdded": 2,
+      "totalLinesAdded": 50,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "c:\\belajar flutter\\sms\\lib\\hello_word.dart": [
           {
@@ -26,6 +26,36 @@
             "fileName": "c:\\belajar flutter\\sms\\lib\\hello_word.dart",
             "fileType": ".dart",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-04-17T04:26:21.087Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\hello_word.dart",
+            "fileType": ".dart",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "c:\\belajar flutter\\sms\\lib\\main.dart": [
+          {
+            "timestamp": "2025-04-17T04:26:56.921Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 31,
             "linesRemoved": 0,
             "projectName": "belajar flutter",
             "content": {
