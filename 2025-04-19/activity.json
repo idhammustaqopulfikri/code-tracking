@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-19",
+  "projects": {
+    "autodidak": {
+      "totalLinesAdded": 77,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\sidebar.blade.php": [
+          {
+            "timestamp": "2025-04-19T04:14:03.514Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-19T04:15:02.390Z",
+            "fileName": "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "autodidak",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "c:\\autodidak\\SiDesa\\resources\\views\\layouts\\sidebar.blade.php"
+      ],
+      "averageChangeSize": 38.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
