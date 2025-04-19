@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 508                                          |
+| **Lines Added** (➕)   | 560                                          |
 | **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 503                |
-| **Active Time** (⌚)   | 33 minutes |
+| **Net Change** (↕)    | 555                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,8 @@
 - **UserController.php** (+44, -3)
 - **index.blade.php** (+85, -2)
 - **settings.json** (+234, -0)
+- **confirmation-approve.blade.php** (+26, -0)
+- **confirmation-reject.blade.php** (+26, -0)
 
 ## Visualizations
 
@@ -25,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 279
+".php" : 331
 ".json" : 234
 ```
 
@@ -34,8 +36,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 21
+"11h" : 23
 ```
 
 
-> **Last Updated:** 4/19/2025, 11:45:30 AM
+> **Last Updated:** 4/19/2025, 11:50:30 AM
