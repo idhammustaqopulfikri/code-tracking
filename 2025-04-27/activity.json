@@ -124,6 +124,53 @@
         "c:\\Users\\lenovo\\.config\\herd-lite\\bin\\php.ini"
       ],
       "averageChangeSize": 2
+    },
+    "php": {
+      "totalLinesAdded": 2022,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\xampp\\php\\php.ini": [
+          {
+            "timestamp": "2025-04-27T12:48:33.758Z",
+            "fileName": "c:\\xampp\\php\\php.ini",
+            "fileType": ".ini",
+            "linesAdded": 2022,
+            "linesRemoved": 0,
+            "projectName": "php",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ini"
+          },
+          {
+            "timestamp": "2025-04-27T12:48:38.662Z",
+            "fileName": "c:\\xampp\\php\\php.ini",
+            "fileType": ".ini",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "php",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ini"
+          }
+        ]
+      },
+      "languageStats": {
+        "ini": 1
+      },
+      "changeFrequency": {
+        "19": 1
+      },
+      "topFiles": [
+        "c:\\xampp\\php\\php.ini"
+      ],
+      "averageChangeSize": 1011.5
     }
   },
   "totalActiveTime": 0,
