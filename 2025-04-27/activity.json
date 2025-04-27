@@ -35,7 +35,7 @@
       "averageChangeSize": 10
     },
     "crud-filament": {
-      "totalLinesAdded": 240,
+      "totalLinesAdded": 474,
       "totalLinesRemoved": 3,
       "totalActiveTime": 5,
       "files": {
@@ -100,6 +100,20 @@
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
             "timestamp": "2025-04-27T12:02:36.686Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 234,
+            "linesRemoved": 0,
+            "projectName": "crud-filament",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-27T12:59:46.075Z",
             "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
             "fileType": ".json",
             "linesAdded": 234,
