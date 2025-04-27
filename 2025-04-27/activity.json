@@ -36,8 +36,8 @@
     },
     "crud-filament": {
       "totalLinesAdded": 6,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\lenovo\\.config\\herd-lite\\bin\\php.ini": [
           {
@@ -80,6 +80,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ini"
+          },
+          {
+            "timestamp": "2025-04-27T11:45:39.771Z",
+            "fileName": "c:\\Users\\lenovo\\.config\\herd-lite\\bin\\php.ini",
+            "fileType": ".ini",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "crud-filament",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ini"
           }
         ]
