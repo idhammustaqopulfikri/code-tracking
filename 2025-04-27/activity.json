@@ -33,6 +33,67 @@
         "c:\\coba\\laravel-11\\filament-app\\.vscode\\settings.json"
       ],
       "averageChangeSize": 10
+    },
+    "crud-filament": {
+      "totalLinesAdded": 6,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\lenovo\\.config\\herd-lite\\bin\\php.ini": [
+          {
+            "timestamp": "2025-04-27T11:42:30.281Z",
+            "fileName": "c:\\Users\\lenovo\\.config\\herd-lite\\bin\\php.ini",
+            "fileType": ".ini",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "crud-filament",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ini"
+          },
+          {
+            "timestamp": "2025-04-27T11:42:32.548Z",
+            "fileName": "c:\\Users\\lenovo\\.config\\herd-lite\\bin\\php.ini",
+            "fileType": ".ini",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "crud-filament",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ini"
+          },
+          {
+            "timestamp": "2025-04-27T11:42:46.591Z",
+            "fileName": "c:\\Users\\lenovo\\.config\\herd-lite\\bin\\php.ini",
+            "fileType": ".ini",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "crud-filament",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ini"
+          }
+        ]
+      },
+      "languageStats": {
+        "ini": 2
+      },
+      "changeFrequency": {
+        "18": 2
+      },
+      "topFiles": [
+        "c:\\Users\\lenovo\\.config\\herd-lite\\bin\\php.ini"
+      ],
+      "averageChangeSize": 2
     }
   },
   "totalActiveTime": 0,
