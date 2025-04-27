@@ -35,9 +35,9 @@
       "averageChangeSize": 10
     },
     "crud-filament": {
-      "totalLinesAdded": 474,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 560,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Users\\lenovo\\.config\\herd-lite\\bin\\php.ini": [
           {
@@ -124,6 +124,64 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\xampp\\htdocs\\crud-filament\\composer.json": [
+          {
+            "timestamp": "2025-04-27T13:02:46.664Z",
+            "fileName": "c:\\xampp\\htdocs\\crud-filament\\composer.json",
+            "fileType": ".json",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "crud-filament",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-27T13:02:57.909Z",
+            "fileName": "c:\\xampp\\htdocs\\crud-filament\\composer.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "crud-filament",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-27T13:03:40.813Z",
+            "fileName": "c:\\xampp\\htdocs\\crud-filament\\composer.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "crud-filament",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-27T13:05:31.177Z",
+            "fileName": "c:\\xampp\\htdocs\\crud-filament\\composer.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "crud-filament",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ]
