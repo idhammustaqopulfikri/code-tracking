@@ -1,0 +1,66 @@
+{
+  "date": "2025-04-28",
+  "projects": {
+    "booking-system": {
+      "totalLinesAdded": 268,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-04-28T02:28:22.718Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 234,
+            "linesRemoved": 0,
+            "projectName": "booking-system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\uji coba\\booking-system\\.env": [
+          {
+            "timestamp": "2025-04-28T02:29:01.517Z",
+            "fileName": "c:\\uji coba\\booking-system\\.env",
+            "fileType": "unknown",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "booking-system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "unknown": 1
+      },
+      "changeFrequency": {
+        "9": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+        "c:\\uji coba\\booking-system\\.env"
+      ],
+      "averageChangeSize": 134
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "unknown",
+    "json"
+  ]
+}
