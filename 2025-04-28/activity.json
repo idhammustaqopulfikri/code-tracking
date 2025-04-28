@@ -84,6 +84,39 @@
         "c:\\uji coba\\StudioBooking\\.env"
       ],
       "averageChangeSize": 53
+    },
+    "laravel-booking": {
+      "totalLinesAdded": 35,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\uji coba\\laravel-booking\\.env": [
+          {
+            "timestamp": "2025-04-28T02:59:35.023Z",
+            "fileName": "c:\\uji coba\\laravel-booking\\.env",
+            "fileType": "unknown",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "laravel-booking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\uji coba\\laravel-booking\\.env"
+      ],
+      "averageChangeSize": 35
     }
   },
   "totalActiveTime": 1,
