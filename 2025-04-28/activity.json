@@ -51,6 +51,39 @@
         "c:\\uji coba\\booking-system\\.env"
       ],
       "averageChangeSize": 134
+    },
+    "StudioBooking": {
+      "totalLinesAdded": 53,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\uji coba\\StudioBooking\\.env": [
+          {
+            "timestamp": "2025-04-28T02:46:07.987Z",
+            "fileName": "c:\\uji coba\\StudioBooking\\.env",
+            "fileType": "unknown",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "StudioBooking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\uji coba\\StudioBooking\\.env"
+      ],
+      "averageChangeSize": 53
     }
   },
   "totalActiveTime": 1,
