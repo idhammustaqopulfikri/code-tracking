@@ -1,0 +1,83 @@
+{
+  "date": "2025-05-02",
+  "projects": {
+    "belajar flutter": {
+      "totalLinesAdded": 319,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-05-01T17:18:35.635Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 237,
+            "linesRemoved": 0,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\belajar flutter\\sms\\lib\\ui\\sms_form.dart": [
+          {
+            "timestamp": "2025-05-01T17:18:59.509Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\ui\\sms_form.dart",
+            "fileType": ".dart",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\belajar flutter\\sms\\lib\\main.dart": [
+          {
+            "timestamp": "2025-05-01T17:19:15.264Z",
+            "fileName": "c:\\belajar flutter\\sms\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "belajar flutter",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "dart": 2
+      },
+      "changeFrequency": {
+        "0": 2
+      },
+      "topFiles": [
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+        "c:\\belajar flutter\\sms\\lib\\ui\\sms_form.dart",
+        "c:\\belajar flutter\\sms\\lib\\main.dart"
+      ],
+      "averageChangeSize": 106.33333333333333
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "dart",
+    "json"
+  ]
+}
