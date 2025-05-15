@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "BookingPodcas": {
-      "totalLinesAdded": 1521,
+      "totalLinesAdded": 1534,
       "totalLinesRemoved": 743,
-      "totalActiveTime": 58,
+      "totalActiveTime": 59,
       "files": {
         "c:\\booking\\BookingPodcas\\.env": [
           {
@@ -487,6 +487,36 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\app\\Models\\Resident.php": [
+          {
+            "timestamp": "2025-05-15T07:40:20.153Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Models\\Resident.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-15T07:40:57.740Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Models\\Resident.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "BookingPodcas",
             "content": {
               "added": [],
