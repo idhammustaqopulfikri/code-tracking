@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "BookingPodcas": {
-      "totalLinesAdded": 1507,
-      "totalLinesRemoved": 735,
-      "totalActiveTime": 50,
+      "totalLinesAdded": 1514,
+      "totalLinesRemoved": 743,
+      "totalActiveTime": 55,
       "files": {
         "c:\\booking\\BookingPodcas\\.env": [
           {
@@ -335,6 +335,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-15T07:20:00.456Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layout\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-15T07:21:39.848Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layout\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-15T07:21:56.147Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layout\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-15T07:22:36.895Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layout\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
