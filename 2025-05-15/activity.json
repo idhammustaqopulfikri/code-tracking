@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "BookingPodcas": {
-      "totalLinesAdded": 1194,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 1396,
+      "totalLinesRemoved": 321,
+      "totalActiveTime": 15,
       "files": {
         "c:\\booking\\BookingPodcas\\.env": [
           {
@@ -49,6 +49,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-15T06:44:48.364Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layout\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 121,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-15T06:48:01.002Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layout\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 200,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "php"
           }
         ],
@@ -104,6 +132,36 @@
             "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layout\\sidebar.blade.php",
             "fileType": ".php",
             "linesAdded": 122,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\resources\\views\\layout\\navbar.blade.php": [
+          {
+            "timestamp": "2025-05-15T06:48:34.669Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layout\\navbar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-15T06:48:35.678Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layout\\navbar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 201,
             "linesRemoved": 0,
             "projectName": "BookingPodcas",
             "content": {
