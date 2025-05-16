@@ -2,7 +2,7 @@
   "date": "2025-05-16",
   "projects": {
     "booking": {
-      "totalLinesAdded": 697,
+      "totalLinesAdded": 725,
       "totalLinesRemoved": 7,
       "totalActiveTime": 6,
       "files": {
@@ -109,6 +109,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\database\\migrations\\2025_05_16_132008_create_rooms_table.php": [
+          {
+            "timestamp": "2025-05-16T13:33:53.243Z",
+            "fileName": "c:\\booking\\BookingPodcas\\database\\migrations\\2025_05_16_132008_create_rooms_table.php",
+            "fileType": ".php",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "booking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
