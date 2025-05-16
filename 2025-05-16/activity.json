@@ -2,7 +2,7 @@
   "date": "2025-05-16",
   "projects": {
     "booking": {
-      "totalLinesAdded": 460,
+      "totalLinesAdded": 697,
       "totalLinesRemoved": 7,
       "totalActiveTime": 6,
       "files": {
@@ -55,6 +55,20 @@
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
             "timestamp": "2025-05-16T10:49:21.952Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 237,
+            "linesRemoved": 0,
+            "projectName": "booking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-16T13:24:59.360Z",
             "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
             "fileType": ".json",
             "linesAdded": 237,
