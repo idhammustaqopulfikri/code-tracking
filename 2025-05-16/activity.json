@@ -2,9 +2,9 @@
   "date": "2025-05-16",
   "projects": {
     "booking": {
-      "totalLinesAdded": 1006,
+      "totalLinesAdded": 1117,
       "totalLinesRemoved": 7,
-      "totalActiveTime": 32,
+      "totalActiveTime": 37,
       "files": {
         "c:\\booking\\BookingPodcas\\resources\\views\\layout\\sidebar.blade.php": [
           {
@@ -372,6 +372,96 @@
             "fileName": "c:\\booking\\BookingPodcas\\app\\Http\\Controllers\\RoomController.php",
             "fileType": ".php",
             "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "booking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\resources\\views\\rooms\\index.blade.php": [
+          {
+            "timestamp": "2025-05-16T15:11:55.457Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\rooms\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "booking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-16T15:11:57.585Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\rooms\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "booking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\resources\\views\\rooms\\create.blade.php": [
+          {
+            "timestamp": "2025-05-16T15:12:19.323Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\rooms\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "booking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-16T15:12:20.700Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\rooms\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "booking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\resources\\views\\rooms\\edit.blade.php": [
+          {
+            "timestamp": "2025-05-16T15:12:59.813Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\rooms\\edit.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "booking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-16T15:13:05.178Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\rooms\\edit.blade.php",
+            "fileType": ".php",
+            "linesAdded": 34,
             "linesRemoved": 0,
             "projectName": "booking",
             "content": {
