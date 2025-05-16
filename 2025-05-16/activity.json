@@ -2,9 +2,9 @@
   "date": "2025-05-16",
   "projects": {
     "booking": {
-      "totalLinesAdded": 459,
+      "totalLinesAdded": 460,
       "totalLinesRemoved": 7,
-      "totalActiveTime": 1,
+      "totalActiveTime": 6,
       "files": {
         "c:\\booking\\BookingPodcas\\resources\\views\\layout\\sidebar.blade.php": [
           {
@@ -81,6 +81,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-16T13:09:14.146Z",
+            "fileName": "c:\\booking\\BookingPodcas\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "booking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "php"
           }
         ]
