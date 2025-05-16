@@ -81,9 +81,9 @@
       "averageChangeSize": 32.5
     },
     "pinjam-ruang": {
-      "totalLinesAdded": 624,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 627,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
       "files": {
         "c:\\laravel\\pinjam-ruang\\resources\\views\\index.blade.php": [
           {
@@ -98,6 +98,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-16T11:24:02.808Z",
+            "fileName": "c:\\laravel\\pinjam-ruang\\resources\\views\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "pinjam-ruang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-16T11:26:57.179Z",
+            "fileName": "c:\\laravel\\pinjam-ruang\\resources\\views\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "pinjam-ruang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ]
