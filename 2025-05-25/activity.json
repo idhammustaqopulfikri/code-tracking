@@ -51,9 +51,9 @@
       "averageChangeSize": 237
     },
     "BookingPodcas": {
-      "totalLinesAdded": 889,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 38,
+      "totalLinesAdded": 1126,
+      "totalLinesRemoved": 60,
+      "totalActiveTime": 43,
       "files": {
         "c:\\booking\\BookingPodcas\\routes\\web.php": [
           {
@@ -402,6 +402,50 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\database\\migrations\\0001_01_01_000000_create_users_table.php": [
+          {
+            "timestamp": "2025-05-25T14:01:01.484Z",
+            "fileName": "c:\\booking\\BookingPodcas\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-25T14:02:10.844Z",
+            "fileName": "c:\\booking\\BookingPodcas\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 59,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-25T14:04:51.460Z",
+            "fileName": "c:\\booking\\BookingPodcas\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 118,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ]
