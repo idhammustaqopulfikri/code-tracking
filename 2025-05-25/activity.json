@@ -51,9 +51,9 @@
       "averageChangeSize": 237
     },
     "BookingPodcas": {
-      "totalLinesAdded": 827,
+      "totalLinesAdded": 838,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 31,
+      "totalActiveTime": 33,
       "files": {
         "c:\\booking\\BookingPodcas\\routes\\web.php": [
           {
@@ -313,6 +313,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\app\\Models\\Role.php": [
+          {
+            "timestamp": "2025-05-25T13:44:51.244Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Models\\Role.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
           }
         ]
       },
