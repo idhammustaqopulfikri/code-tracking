@@ -51,9 +51,9 @@
       "averageChangeSize": 237
     },
     "BookingPodcas": {
-      "totalLinesAdded": 124,
+      "totalLinesAdded": 240,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 12,
       "files": {
         "c:\\booking\\BookingPodcas\\routes\\web.php": [
           {
@@ -84,6 +84,52 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\resources\\views\\layouts\\footer.blade.php": [
+          {
+            "timestamp": "2025-05-25T13:22:38.774Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layouts\\footer.blade.php",
+            "fileType": ".php",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-25T13:22:58.639Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layouts\\footer.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\resources\\views\\layouts\\app.blade.php": [
+          {
+            "timestamp": "2025-05-25T13:22:25.808Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "php"
           }
         ]
