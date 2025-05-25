@@ -51,9 +51,9 @@
       "averageChangeSize": 237
     },
     "BookingPodcas": {
-      "totalLinesAdded": 444,
+      "totalLinesAdded": 827,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 21,
+      "totalActiveTime": 31,
       "files": {
         "c:\\booking\\BookingPodcas\\routes\\web.php": [
           {
@@ -68,6 +68,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-25T13:43:15.643Z",
+            "fileName": "c:\\booking\\BookingPodcas\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
@@ -237,6 +251,68 @@
             },
             "duration": 1,
             "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\app\\Http\\Controllers\\AuthController.php": [
+          {
+            "timestamp": "2025-05-25T13:41:04.414Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Http\\Controllers\\AuthController.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-25T13:41:05.403Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Http\\Controllers\\AuthController.php",
+            "fileType": ".php",
+            "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\app\\Http\\Middleware\\RoleMiddleware.php": [
+          {
+            "timestamp": "2025-05-25T13:43:00.820Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Http\\Middleware\\RoleMiddleware.php",
+            "fileType": ".php",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-05-25T13:43:12.720Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 237,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
