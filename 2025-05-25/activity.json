@@ -51,9 +51,9 @@
       "averageChangeSize": 237
     },
     "BookingPodcas": {
-      "totalLinesAdded": 251,
+      "totalLinesAdded": 444,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 13,
+      "totalActiveTime": 21,
       "files": {
         "c:\\booking\\BookingPodcas\\routes\\web.php": [
           {
@@ -153,6 +153,82 @@
             "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layouts\\dashboard.blade.php",
             "fileType": ".php",
             "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\resources\\views\\pages\\dashboard.blade.php": [
+          {
+            "timestamp": "2025-05-25T13:34:48.342Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\pages\\dashboard.blade.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\resources\\views\\pages\\auth\\login.blade.php": [
+          {
+            "timestamp": "2025-05-25T13:36:17.431Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\pages\\auth\\login.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-25T13:36:19.951Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\pages\\auth\\login.blade.php",
+            "fileType": ".php",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\resources\\views\\pages\\auth\\register.blade.php": [
+          {
+            "timestamp": "2025-05-25T13:36:59.089Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\pages\\auth\\register.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-25T13:37:00.053Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\pages\\auth\\register.blade.php",
+            "fileType": ".php",
+            "linesAdded": 89,
             "linesRemoved": 0,
             "projectName": "BookingPodcas",
             "content": {
