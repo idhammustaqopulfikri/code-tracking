@@ -51,9 +51,9 @@
       "averageChangeSize": 237
     },
     "BookingPodcas": {
-      "totalLinesAdded": 240,
+      "totalLinesAdded": 251,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 12,
+      "totalActiveTime": 13,
       "files": {
         "c:\\booking\\BookingPodcas\\routes\\web.php": [
           {
@@ -130,6 +130,36 @@
               "removed": []
             },
             "duration": 4,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\resources\\views\\layouts\\dashboard.blade.php": [
+          {
+            "timestamp": "2025-05-25T13:32:46.039Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layouts\\dashboard.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-25T13:32:46.923Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\layouts\\dashboard.blade.php",
+            "fileType": ".php",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
