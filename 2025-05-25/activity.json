@@ -2,9 +2,9 @@
   "date": "2025-05-25",
   "projects": {
     "booking": {
-      "totalLinesAdded": 237,
+      "totalLinesAdded": 342,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 4,
       "files": {
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\app\\Http\\Controllers\\BookingController.php": [
+          {
+            "timestamp": "2025-05-25T10:54:21.757Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "booking",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
           }
         ]
       },
