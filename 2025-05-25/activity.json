@@ -49,6 +49,56 @@
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json"
       ],
       "averageChangeSize": 237
+    },
+    "BookingPodcas": {
+      "totalLinesAdded": 124,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\booking\\BookingPodcas\\routes\\web.php": [
+          {
+            "timestamp": "2025-05-25T13:17:20.438Z",
+            "fileName": "c:\\booking\\BookingPodcas\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\app\\Http\\Controllers\\BookingController.php": [
+          {
+            "timestamp": "2025-05-25T13:18:37.310Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "20": 2
+      },
+      "topFiles": [
+        "c:\\booking\\BookingPodcas\\routes\\web.php",
+        "c:\\booking\\BookingPodcas\\app\\Http\\Controllers\\BookingController.php"
+      ],
+      "averageChangeSize": 62
     }
   },
   "totalActiveTime": 0,
