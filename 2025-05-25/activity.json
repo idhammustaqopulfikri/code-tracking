@@ -52,8 +52,8 @@
     },
     "BookingPodcas": {
       "totalLinesAdded": 1166,
-      "totalLinesRemoved": 194,
-      "totalActiveTime": 66,
+      "totalLinesRemoved": 200,
+      "totalActiveTime": 68,
       "files": {
         "c:\\booking\\BookingPodcas\\routes\\web.php": [
           {
@@ -552,6 +552,20 @@
             "fileType": ".php",
             "linesAdded": 6,
             "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-25T14:30:46.339Z",
+            "fileName": "c:\\booking\\BookingPodcas\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "BookingPodcas",
             "content": {
               "added": [],
