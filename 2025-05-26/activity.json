@@ -2,9 +2,9 @@
   "date": "2025-05-26",
   "projects": {
     "BookingPodcas": {
-      "totalLinesAdded": 349,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 379,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 24,
       "files": {
         "c:\\booking\\BookingPodcas\\app\\Models\\User.php": [
           {
@@ -19,6 +19,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-26T12:27:21.797Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Models\\User.php",
+            "fileType": ".php",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ],
@@ -63,6 +77,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-26T12:27:57.148Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Http\\Middleware\\RoleMiddleware.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
@@ -124,6 +152,36 @@
             },
             "duration": 4,
             "language": "json"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\routes\\web.php": [
+          {
+            "timestamp": "2025-05-26T12:25:46.424Z",
+            "fileName": "c:\\booking\\BookingPodcas\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-26T12:26:12.158Z",
+            "fileName": "c:\\booking\\BookingPodcas\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },
