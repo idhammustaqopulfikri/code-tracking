@@ -1,0 +1,78 @@
+{
+  "date": "2025-05-26",
+  "projects": {
+    "BookingPodcas": {
+      "totalLinesAdded": 88,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\booking\\BookingPodcas\\app\\Models\\User.php": [
+          {
+            "timestamp": "2025-05-26T12:10:38.716Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Models\\User.php",
+            "fileType": ".php",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\app\\Http\\Middleware\\RoleMiddleware.php": [
+          {
+            "timestamp": "2025-05-26T12:11:14.738Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Http\\Middleware\\RoleMiddleware.php",
+            "fileType": ".php",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-26T12:11:15.378Z",
+            "fileName": "c:\\booking\\BookingPodcas\\app\\Http\\Middleware\\RoleMiddleware.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "BookingPodcas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "19": 2
+      },
+      "topFiles": [
+        "c:\\booking\\BookingPodcas\\app\\Http\\Middleware\\RoleMiddleware.php",
+        "c:\\booking\\BookingPodcas\\app\\Models\\User.php"
+      ],
+      "averageChangeSize": 30
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
