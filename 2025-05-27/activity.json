@@ -35,9 +35,9 @@
       "averageChangeSize": 66
     },
     "studio-backend": {
-      "totalLinesAdded": 2699,
-      "totalLinesRemoved": 266,
-      "totalActiveTime": 152,
+      "totalLinesAdded": 2734,
+      "totalLinesRemoved": 282,
+      "totalActiveTime": 161,
       "files": {
         "c:\\ujicoba\\studio-backend\\.env": [
           {
@@ -469,6 +469,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T12:47:03.359Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\Room.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
           }
         ],
         "c:\\ujicoba\\studio-backend\\database\\migrations\\2025_05_27_100637_create_rooms_table.php": [
@@ -491,6 +505,34 @@
             "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\2025_05_27_100637_create_rooms_table.php",
             "fileType": ".php",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T12:45:28.013Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\2025_05_27_100637_create_rooms_table.php",
+            "fileType": ".php",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T12:45:37.282Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\2025_05_27_100637_create_rooms_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "studio-backend",
             "content": {
@@ -1304,6 +1346,62 @@
               "removed": []
             },
             "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T12:43:40.757Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T12:44:15.484Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T12:44:27.065Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T12:44:28.019Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
