@@ -35,9 +35,9 @@
       "averageChangeSize": 66
     },
     "studio-backend": {
-      "totalLinesAdded": 2857,
+      "totalLinesAdded": 2867,
       "totalLinesRemoved": 339,
-      "totalActiveTime": 218,
+      "totalActiveTime": 225,
       "files": {
         "c:\\ujicoba\\studio-backend\\.env": [
           {
@@ -219,6 +219,20 @@
             "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\ProductController.php",
             "fileType": ".php",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T13:43:00.991Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\ProductController.php",
+            "fileType": ".php",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "studio-backend",
             "content": {
@@ -1861,6 +1875,20 @@
             "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\products\\index.blade.php",
             "fileType": ".php",
             "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T13:47:20.653Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\products\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "studio-backend",
             "content": {
