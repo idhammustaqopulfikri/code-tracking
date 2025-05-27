@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2334                                          |
-| **Lines Removed** (➖) | 205                                        |
-| **Net Change** (↕)    | 2129                |
-| **Active Time** (⌚)   | 116 minutes |
+| **Lines Added** (➕)   | 2376                                          |
+| **Lines Removed** (➖) | 217                                        |
+| **Net Change** (↕)    | 2159                |
+| **Active Time** (⌚)   | 120 minutes |
 
 
 ## Modified Files
@@ -15,14 +15,14 @@
 - **AuthController.php** (+106, -0)
 - **RoomController.php** (+128, -0)
 - **ProductController.php** (+252, -62)
-- **BookingController.php** (+148, -0)
+- **BookingController.php** (+150, -2)
 - **Room.php** (+49, -19)
 - **2025_05_27_100637_create_rooms_table.php** (+31, -0)
 - **2025_05_27_100715_create_products_table.php** (+31, -0)
 - **2025_05_27_100731_create_bookings_table.php** (+33, -0)
 - **0001_01_01_000000_create_users_table.php** (+50, -0)
 - **Product.php** (+31, -0)
-- **Booking.php** (+44, -0)
+- **Booking.php** (+56, -10)
 - **app.blade.php** (+230, -68)
 - **sidebar.blade.php** (+38, -0)
 - **topbar.blade.php** (+11, -0)
@@ -40,7 +40,7 @@
 - **index.blade.php** (+28, -0)
 - **create.blade.php** (+17, -0)
 - **edit.blade.php** (+18, -0)
-- **index.blade.php** (+34, -0)
+- **index.blade.php** (+62, -0)
 - **create.blade.php** (+43, -0)
 - **edit.blade.php** (+43, -0)
 - **navbar.blade.php** (+21, -0)
@@ -54,7 +54,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 66
-".php" : 1999
+".php" : 2053
 ".json" : 474
 ```
 
@@ -65,8 +65,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 1
 "17h" : 68
-"18h" : 18
+"18h" : 23
 ```
 
 
-> **Last Updated:** 5/27/2025, 6:24:38 PM
+> **Last Updated:** 5/27/2025, 6:29:38 PM
