@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2931                                          |
+| **Lines Added** (➕)   | 2933                                          |
 | **Lines Removed** (➖) | 347                                        |
-| **Net Change** (↕)    | 2584                |
-| **Active Time** (⌚)   | 227 minutes |
+| **Net Change** (↕)    | 2586                |
+| **Active Time** (⌚)   | 231 minutes |
 
 
 ## Modified Files
@@ -40,7 +40,7 @@
 - **index.blade.php** (+94, -22)
 - **create.blade.php** (+46, -0)
 - **edit.blade.php** (+18, -0)
-- **index.blade.php** (+117, -21)
+- **index.blade.php** (+119, -21)
 - **create.blade.php** (+66, -0)
 - **edit.blade.php** (+43, -0)
 - **navbar.blade.php** (+21, -0)
@@ -55,7 +55,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 66
-".php" : 2738
+".php" : 2740
 ".json" : 474
 ```
 
@@ -69,8 +69,8 @@ title Coding activity by hour (count of changes)
 "18h" : 33
 "19h" : 20
 "20h" : 25
-"21h" : 3
+"21h" : 4
 ```
 
 
-> **Last Updated:** 5/27/2025, 9:17:34 PM
+> **Last Updated:** 5/27/2025, 9:22:31 PM

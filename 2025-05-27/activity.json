@@ -35,9 +35,9 @@
       "averageChangeSize": 66
     },
     "studio-backend": {
-      "totalLinesAdded": 2931,
+      "totalLinesAdded": 2933,
       "totalLinesRemoved": 347,
-      "totalActiveTime": 227,
+      "totalActiveTime": 231,
       "files": {
         "c:\\ujicoba\\studio-backend\\.env": [
           {
@@ -2070,6 +2070,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T14:19:00.276Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "php"
           }
         ],
