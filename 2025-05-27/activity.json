@@ -35,9 +35,9 @@
       "averageChangeSize": 66
     },
     "studio-backend": {
-      "totalLinesAdded": 1166,
-      "totalLinesRemoved": 35,
-      "totalActiveTime": 36,
+      "totalLinesAdded": 1197,
+      "totalLinesRemoved": 36,
+      "totalActiveTime": 42,
       "files": {
         "c:\\ujicoba\\studio-backend\\.env": [
           {
@@ -567,6 +567,50 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\routes\\web.php": [
+          {
+            "timestamp": "2025-05-27T10:28:24.333Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:30:07.947Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:30:39.507Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },
