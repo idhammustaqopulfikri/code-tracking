@@ -35,9 +35,9 @@
       "averageChangeSize": 66
     },
     "studio-backend": {
-      "totalLinesAdded": 839,
-      "totalLinesRemoved": 19,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 1166,
+      "totalLinesRemoved": 35,
+      "totalActiveTime": 36,
       "files": {
         "c:\\ujicoba\\studio-backend\\.env": [
           {
@@ -479,6 +479,94 @@
             },
             "duration": 2,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:23:17.501Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:23:29.232Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\register.blade.php": [
+          {
+            "timestamp": "2025-05-27T10:24:17.411Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\register.blade.php",
+            "fileType": ".php",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:25:01.872Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\register.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:25:19.434Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\register.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-05-27T10:25:56.574Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 237,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
