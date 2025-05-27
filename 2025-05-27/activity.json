@@ -1,0 +1,47 @@
+{
+  "date": "2025-05-27",
+  "projects": {
+    "ujicoba": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\ujicoba\\studio-backend\\.env": [
+          {
+            "timestamp": "2025-05-27T08:22:33.214Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\.env",
+            "fileType": "unknown",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "ujicoba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\ujicoba\\studio-backend\\.env"
+      ],
+      "averageChangeSize": 66
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "unknown"
+  ]
+}
