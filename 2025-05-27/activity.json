@@ -35,7 +35,7 @@
       "averageChangeSize": 66
     },
     "studio-backend": {
-      "totalLinesAdded": 2624,
+      "totalLinesAdded": 2626,
       "totalLinesRemoved": 258,
       "totalActiveTime": 139,
       "files": {
@@ -528,6 +528,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T12:29:45.328Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\2025_05_27_100715_create_products_table.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
