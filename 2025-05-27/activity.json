@@ -35,9 +35,9 @@
       "averageChangeSize": 66
     },
     "studio-backend": {
-      "totalLinesAdded": 1729,
+      "totalLinesAdded": 1849,
       "totalLinesRemoved": 107,
-      "totalActiveTime": 73,
+      "totalActiveTime": 82,
       "files": {
         "c:\\ujicoba\\studio-backend\\.env": [
           {
@@ -983,6 +983,82 @@
             "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\products\\edit.blade.php",
             "fileType": ".php",
             "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\index.blade.php": [
+          {
+            "timestamp": "2025-05-27T10:57:23.052Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:57:23.074Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\create.blade.php": [
+          {
+            "timestamp": "2025-05-27T10:57:32.772Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:57:33.373Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\edit.blade.php": [
+          {
+            "timestamp": "2025-05-27T10:57:43.248Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\edit.blade.php",
+            "fileType": ".php",
+            "linesAdded": 43,
             "linesRemoved": 0,
             "projectName": "studio-backend",
             "content": {
