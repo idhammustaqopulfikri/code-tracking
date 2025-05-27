@@ -35,9 +35,9 @@
       "averageChangeSize": 66
     },
     "studio-backend": {
-      "totalLinesAdded": 2423,
-      "totalLinesRemoved": 230,
-      "totalActiveTime": 130,
+      "totalLinesAdded": 2548,
+      "totalLinesRemoved": 258,
+      "totalActiveTime": 136,
       "files": {
         "c:\\ujicoba\\studio-backend\\.env": [
           {
@@ -326,6 +326,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T11:36:09.166Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T11:36:29.331Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
@@ -1017,6 +1045,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T11:34:55.199Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\ujicoba\\studio-backend\\database\\seeders\\DummyDataSeeder.php": [
@@ -1462,6 +1504,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\invoice.blade.php": [
+          {
+            "timestamp": "2025-05-27T11:37:47.825Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\invoice.blade.php",
+            "fileType": ".php",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ]

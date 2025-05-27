@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2423                                          |
-| **Lines Removed** (➖) | 230                                        |
-| **Net Change** (↕)    | 2193                |
-| **Active Time** (⌚)   | 130 minutes |
+| **Lines Added** (➕)   | 2548                                          |
+| **Lines Removed** (➖) | 258                                        |
+| **Net Change** (↕)    | 2290                |
+| **Active Time** (⌚)   | 136 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **AuthController.php** (+106, -0)
 - **RoomController.php** (+128, -0)
 - **ProductController.php** (+252, -62)
-- **BookingController.php** (+174, -2)
+- **BookingController.php** (+174, -30)
 - **Room.php** (+49, -19)
 - **2025_05_27_100637_create_rooms_table.php** (+31, -0)
 - **2025_05_27_100715_create_products_table.php** (+31, -0)
@@ -31,7 +31,7 @@
 - **login.blade.php** (+92, -9)
 - **register.blade.php** (+90, -7)
 - **settings.json** (+474, -0)
-- **web.php** (+31, -1)
+- **web.php** (+62, -1)
 - **DummyDataSeeder.php** (+55, -30)
 - **DatabaseSeeder.php** (+24, -3)
 - **index.blade.php** (+34, -6)
@@ -45,6 +45,7 @@
 - **edit.blade.php** (+43, -0)
 - **navbar.blade.php** (+21, -0)
 - **logout.blade.php** (+19, -0)
+- **invoice.blade.php** (+94, -0)
 
 ## Visualizations
 
@@ -54,7 +55,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 66
-".php" : 2113
+".php" : 2266
 ".json" : 474
 ```
 
@@ -65,8 +66,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 1
 "17h" : 68
-"18h" : 28
+"18h" : 32
 ```
 
 
-> **Last Updated:** 5/27/2025, 6:34:38 PM
+> **Last Updated:** 5/27/2025, 6:39:39 PM
