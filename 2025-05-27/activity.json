@@ -35,9 +35,9 @@
       "averageChangeSize": 66
     },
     "studio-backend": {
-      "totalLinesAdded": 592,
+      "totalLinesAdded": 839,
       "totalLinesRemoved": 19,
-      "totalActiveTime": 20,
+      "totalActiveTime": 30,
       "files": {
         "c:\\ujicoba\\studio-backend\\.env": [
           {
@@ -354,6 +354,130 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\app.blade.php": [
+          {
+            "timestamp": "2025-05-27T10:17:50.684Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:17:51.634Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:19:18.106Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php": [
+          {
+            "timestamp": "2025-05-27T10:20:06.295Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\topbar.blade.php": [
+          {
+            "timestamp": "2025-05-27T10:20:38.951Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\topbar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\footer.blade.php": [
+          {
+            "timestamp": "2025-05-27T10:20:52.845Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\footer.blade.php",
+            "fileType": ".php",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\dashboard.blade.php": [
+          {
+            "timestamp": "2025-05-27T10:21:12.043Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\dashboard.blade.php",
+            "fileType": ".php",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php": [
+          {
+            "timestamp": "2025-05-27T10:22:30.164Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php",
+            "fileType": ".php",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ]
