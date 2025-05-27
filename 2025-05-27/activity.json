@@ -35,9 +35,9 @@
       "averageChangeSize": 66
     },
     "studio-backend": {
-      "totalLinesAdded": 66,
+      "totalLinesAdded": 399,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 6,
       "files": {
         "c:\\ujicoba\\studio-backend\\.env": [
           {
@@ -53,6 +53,114 @@
             },
             "duration": 0,
             "language": "unknown"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php": [
+          {
+            "timestamp": "2025-05-27T10:10:18.130Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php",
+            "fileType": ".php",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\RoomController.php": [
+          {
+            "timestamp": "2025-05-27T10:10:37.792Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\RoomController.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:10:39.291Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\RoomController.php",
+            "fileType": ".php",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\ProductController.php": [
+          {
+            "timestamp": "2025-05-27T10:10:59.569Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\ProductController.php",
+            "fileType": ".php",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\BookingController.php": [
+          {
+            "timestamp": "2025-05-27T10:11:12.775Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\app\\Models\\Room.php": [
+          {
+            "timestamp": "2025-05-27T10:12:11.436Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\Room.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T10:12:18.782Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\Room.php",
+            "fileType": ".php",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },
