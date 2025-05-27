@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1197                                          |
-| **Lines Removed** (➖) | 36                                        |
-| **Net Change** (↕)    | 1161                |
-| **Active Time** (⌚)   | 42 minutes |
+| **Lines Added** (➕)   | 1518                                          |
+| **Lines Removed** (➖) | 98                                        |
+| **Net Change** (↕)    | 1420                |
+| **Active Time** (⌚)   | 51 minutes |
 
 
 ## Modified Files
 - **.env** (+66, -0)
-- **AuthController.php** (+52, -0)
-- **RoomController.php** (+63, -0)
-- **ProductController.php** (+125, -0)
-- **BookingController.php** (+73, -0)
+- **AuthController.php** (+106, -0)
+- **RoomController.php** (+128, -0)
+- **ProductController.php** (+252, -62)
+- **BookingController.php** (+148, -0)
 - **Room.php** (+33, -19)
 - **2025_05_27_100637_create_rooms_table.php** (+31, -0)
 - **2025_05_27_100715_create_products_table.php** (+31, -0)
@@ -41,7 +41,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 66
-".php" : 930
+".php" : 1313
 ".json" : 237
 ```
 
@@ -51,8 +51,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 1
-"17h" : 37
+"17h" : 46
 ```
 
 
-> **Last Updated:** 5/27/2025, 5:32:35 PM
+> **Last Updated:** 5/27/2025, 5:44:35 PM
