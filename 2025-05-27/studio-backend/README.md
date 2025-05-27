@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2317                                          |
+| **Lines Added** (➕)   | 2334                                          |
 | **Lines Removed** (➖) | 205                                        |
-| **Net Change** (↕)    | 2112                |
-| **Active Time** (⌚)   | 114 minutes |
+| **Net Change** (↕)    | 2129                |
+| **Active Time** (⌚)   | 116 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **2025_05_27_100715_create_products_table.php** (+31, -0)
 - **2025_05_27_100731_create_bookings_table.php** (+33, -0)
 - **0001_01_01_000000_create_users_table.php** (+50, -0)
-- **Product.php** (+14, -0)
+- **Product.php** (+31, -0)
 - **Booking.php** (+44, -0)
 - **app.blade.php** (+230, -68)
 - **sidebar.blade.php** (+38, -0)
@@ -54,7 +54,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 66
-".php" : 1982
+".php" : 1999
 ".json" : 474
 ```
 
@@ -65,8 +65,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 1
 "17h" : 68
-"18h" : 16
+"18h" : 18
 ```
 
 
-> **Last Updated:** 5/27/2025, 6:19:38 PM
+> **Last Updated:** 5/27/2025, 6:24:38 PM
