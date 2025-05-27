@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1849                                          |
-| **Lines Removed** (➖) | 107                                        |
-| **Net Change** (↕)    | 1742                |
-| **Active Time** (⌚)   | 82 minutes |
+| **Lines Added** (➕)   | 1890                                          |
+| **Lines Removed** (➖) | 137                                        |
+| **Net Change** (↕)    | 1753                |
+| **Active Time** (⌚)   | 89 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **0001_01_01_000000_create_users_table.php** (+50, -0)
 - **Product.php** (+14, -0)
 - **Booking.php** (+21, -0)
-- **app.blade.php** (+115, -0)
+- **app.blade.php** (+156, -0)
 - **sidebar.blade.php** (+15, -0)
 - **topbar.blade.php** (+11, -0)
 - **footer.blade.php** (+8, -0)
@@ -32,7 +32,7 @@
 - **register.blade.php** (+90, -7)
 - **settings.json** (+237, -0)
 - **web.php** (+31, -1)
-- **DummyDataSeeder.php** (+55, -0)
+- **DummyDataSeeder.php** (+55, -30)
 - **DatabaseSeeder.php** (+24, -3)
 - **index.blade.php** (+34, -6)
 - **create.blade.php** (+17, -0)
@@ -52,7 +52,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 66
-".php" : 1653
+".php" : 1724
 ".json" : 237
 ```
 
@@ -63,7 +63,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 1
 "17h" : 68
+"18h" : 2
 ```
 
 
-> **Last Updated:** 5/27/2025, 5:59:38 PM
+> **Last Updated:** 5/27/2025, 6:04:38 PM
