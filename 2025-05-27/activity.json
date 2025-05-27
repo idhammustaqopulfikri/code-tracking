@@ -35,9 +35,9 @@
       "averageChangeSize": 66
     },
     "studio-backend": {
-      "totalLinesAdded": 1890,
+      "totalLinesAdded": 2201,
       "totalLinesRemoved": 137,
-      "totalActiveTime": 89,
+      "totalActiveTime": 95,
       "files": {
         "c:\\ujicoba\\studio-backend\\.env": [
           {
@@ -539,6 +539,20 @@
             },
             "duration": 3,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T11:09:06.025Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php": [
@@ -706,6 +720,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-27T11:08:22.284Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 237,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "json"
           }
         ],
