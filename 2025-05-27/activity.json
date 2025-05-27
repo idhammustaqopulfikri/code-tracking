@@ -36,8 +36,8 @@
     },
     "studio-backend": {
       "totalLinesAdded": 2734,
-      "totalLinesRemoved": 282,
-      "totalActiveTime": 161,
+      "totalLinesRemoved": 283,
+      "totalActiveTime": 162,
       "files": {
         "c:\\ujicoba\\studio-backend\\.env": [
           {
@@ -482,6 +482,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-27T12:47:54.359Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\Room.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
