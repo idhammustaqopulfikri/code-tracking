@@ -2,9 +2,9 @@
   "date": "2025-05-28",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 610,
-      "totalLinesRemoved": 37,
-      "totalActiveTime": 40,
+      "totalLinesAdded": 848,
+      "totalLinesRemoved": 38,
+      "totalActiveTime": 46,
       "files": {
         "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\UserController.php": [
           {
@@ -123,6 +123,34 @@
           },
           {
             "timestamp": "2025-05-28T10:59:12.157Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:01:35.435Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:01:54.830Z",
             "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
             "fileType": ".php",
             "linesAdded": 0,
@@ -452,6 +480,22 @@
             },
             "duration": 4,
             "language": "php"
+          }
+        ],
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-05-28T11:03:03.362Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 237,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
