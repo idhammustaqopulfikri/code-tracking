@@ -3,7 +3,7 @@
   "projects": {
     "studio-backend": {
       "totalLinesAdded": 1745,
-      "totalLinesRemoved": 171,
+      "totalLinesRemoved": 174,
       "totalActiveTime": 132,
       "files": {
         "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\UserController.php": [
@@ -1141,6 +1141,20 @@
             "fileType": ".php",
             "linesAdded": 53,
             "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T13:19:05.942Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "studio-backend",
             "content": {
               "added": [],
