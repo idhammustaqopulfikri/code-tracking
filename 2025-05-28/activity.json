@@ -2,9 +2,9 @@
   "date": "2025-05-28",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 942,
-      "totalLinesRemoved": 41,
-      "totalActiveTime": 58,
+      "totalLinesAdded": 1030,
+      "totalLinesRemoved": 59,
+      "totalActiveTime": 66,
       "files": {
         "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\UserController.php": [
           {
@@ -204,6 +204,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:25:37.131Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\ujicoba\\studio-backend\\resources\\views\\users\\index.blade.php": [
@@ -353,6 +367,76 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:27:33.994Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:27:40.540Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:29:00.896Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:29:15.217Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:29:33.080Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
