@@ -2,9 +2,9 @@
   "date": "2025-05-28",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 1131,
-      "totalLinesRemoved": 70,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 1257,
+      "totalLinesRemoved": 102,
+      "totalActiveTime": 86,
       "files": {
         "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\UserController.php": [
           {
@@ -224,6 +224,34 @@
             "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
             "fileType": ".php",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:49:11.142Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:49:33.377Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "studio-backend",
             "content": {
@@ -793,6 +821,80 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\app\\Models\\User.php": [
+          {
+            "timestamp": "2025-05-28T11:46:26.885Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\User.php",
+            "fileType": ".php",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:46:27.698Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\User.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:46:54.832Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\User.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php": [
+          {
+            "timestamp": "2025-05-28T11:48:52.943Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php",
+            "fileType": ".php",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-28T11:48:54.148Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
