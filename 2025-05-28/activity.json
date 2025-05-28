@@ -2,7 +2,7 @@
   "date": "2025-05-28",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 356,
+      "totalLinesAdded": 407,
       "totalLinesRemoved": 33,
       "totalActiveTime": 20,
       "files": {
@@ -211,6 +211,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php": [
+          {
+            "timestamp": "2025-05-28T10:15:19.176Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
