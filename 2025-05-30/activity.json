@@ -1,0 +1,78 @@
+{
+  "date": "2025-05-30",
+  "projects": {
+    "studio-backend": {
+      "totalLinesAdded": 174,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\ujicoba\\studio-backend\\routes\\web.php": [
+          {
+            "timestamp": "2025-05-30T07:35:45.717Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-30T07:36:27.470Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php": [
+          {
+            "timestamp": "2025-05-30T07:39:27.807Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php",
+            "fileType": ".php",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 5
+      },
+      "changeFrequency": {
+        "14": 5
+      },
+      "topFiles": [
+        "c:\\ujicoba\\studio-backend\\routes\\web.php",
+        "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php"
+      ],
+      "averageChangeSize": 58
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
