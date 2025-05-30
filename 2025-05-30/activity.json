@@ -2,9 +2,9 @@
   "date": "2025-05-30",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 525,
-      "totalLinesRemoved": 38,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 618,
+      "totalLinesRemoved": 39,
+      "totalActiveTime": 13,
       "files": {
         "c:\\ujicoba\\studio-backend\\routes\\web.php": [
           {
@@ -162,6 +162,50 @@
             "fileName": "c:\\ujicoba\\studio-backend\\bootstrap\\app.php",
             "fileType": ".php",
             "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php": [
+          {
+            "timestamp": "2025-05-30T08:15:04.979Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php",
+            "fileType": ".php",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-30T08:15:33.480Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-30T08:15:30.671Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "studio-backend",
             "content": {
