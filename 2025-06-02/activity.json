@@ -2,9 +2,9 @@
   "date": "2025-06-02",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 1436,
+      "totalLinesAdded": 1484,
       "totalLinesRemoved": 164,
-      "totalActiveTime": 83,
+      "totalActiveTime": 90,
       "files": {
         "c:\\ujicoba\\studio-backend\\database\\migrations\\2025_05_27_100731_create_bookings_table.php": [
           {
@@ -874,6 +874,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-06-02T09:36:14.957Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\products\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\ProductController.php": [
@@ -910,6 +924,50 @@
             "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\ProductController.php",
             "fileType": ".php",
             "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-02T09:35:41.429Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\ProductController.php",
+            "fileType": ".php",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\database\\migrations\\2025_05_27_100715_create_products_table.php": [
+          {
+            "timestamp": "2025-06-02T09:35:09.658Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\2025_05_27_100715_create_products_table.php",
+            "fileType": ".php",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-02T09:35:12.114Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\2025_05_27_100715_create_products_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "studio-backend",
             "content": {

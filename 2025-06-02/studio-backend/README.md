@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1436                                          |
+| **Lines Added** (➕)   | 1484                                          |
 | **Lines Removed** (➖) | 164                                        |
-| **Net Change** (↕)    | 1272                |
-| **Active Time** (⌚)   | 83 minutes |
+| **Net Change** (↕)    | 1320                |
+| **Active Time** (⌚)   | 90 minutes |
 
 
 ## Modified Files
@@ -25,8 +25,9 @@
 - **AdditionalProduct.php** (+25, -0)
 - **show.blade.php** (+18, -0)
 - **AuthController.php** (+91, -1)
-- **index.blade.php** (+107, -18)
-- **ProductController.php** (+103, -12)
+- **index.blade.php** (+113, -18)
+- **ProductController.php** (+111, -12)
+- **2025_05_27_100715_create_products_table.php** (+34, -0)
 
 ## Visualizations
 
@@ -35,7 +36,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 1126
+".php" : 1174
 ".json" : 474
 ```
 
@@ -48,8 +49,8 @@ title Coding activity by hour (count of changes)
 "11h" : 10
 "14h" : 33
 "15h" : 7
-"16h" : 11
+"16h" : 15
 ```
 
 
-> **Last Updated:** 6/2/2025, 4:31:42 PM
+> **Last Updated:** 6/2/2025, 4:36:42 PM
