@@ -3,7 +3,7 @@
   "projects": {
     "studio-backend": {
       "totalLinesAdded": 650,
-      "totalLinesRemoved": 31,
+      "totalLinesRemoved": 32,
       "totalActiveTime": 34,
       "files": {
         "c:\\ujicoba\\studio-backend\\database\\migrations\\2025_05_27_100731_create_bookings_table.php": [
@@ -327,6 +327,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-02T07:26:17.924Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\Booking.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
