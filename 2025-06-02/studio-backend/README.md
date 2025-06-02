@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 621                                          |
-| **Lines Removed** (➖) | 30                                        |
-| **Net Change** (↕)    | 591                |
-| **Active Time** (⌚)   | 29 minutes |
+| **Lines Added** (➕)   | 650                                          |
+| **Lines Removed** (➖) | 31                                        |
+| **Net Change** (↕)    | 619                |
+| **Active Time** (⌚)   | 34 minutes |
 
 
 ## Modified Files
@@ -17,8 +17,8 @@
 - **settings.json** (+237, -0)
 - **Room.php** (+16, -0)
 - **2025_05_27_100637_create_rooms_table.php** (+32, -0)
-- **BookingController.php** (+90, -28)
-- **Booking.php** (+40, -0)
+- **BookingController.php** (+119, -28)
+- **Booking.php** (+40, -1)
 
 ## Visualizations
 
@@ -27,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 414
+".php" : 444
 ".json" : 237
 ```
 
@@ -38,8 +38,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 2
 "11h" : 10
-"14h" : 8
+"14h" : 10
 ```
 
 
-> **Last Updated:** 6/2/2025, 2:17:28 PM
+> **Last Updated:** 6/2/2025, 2:22:28 PM
