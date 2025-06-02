@@ -2,9 +2,9 @@
   "date": "2025-06-02",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 1729,
-      "totalLinesRemoved": 340,
-      "totalActiveTime": 123,
+      "totalLinesAdded": 1734,
+      "totalLinesRemoved": 342,
+      "totalActiveTime": 127,
       "files": {
         "c:\\ujicoba\\studio-backend\\database\\migrations\\2025_05_27_100731_create_bookings_table.php": [
           {
@@ -1035,6 +1035,48 @@
             "fileType": ".php",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-02T10:26:43.757Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\products\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-02T10:28:39.469Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\products\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-02T10:29:15.583Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\products\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "studio-backend",
             "content": {
               "added": [],
