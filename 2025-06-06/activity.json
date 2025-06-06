@@ -2,9 +2,9 @@
   "date": "2025-06-06",
   "projects": {
     "sewa-mobil": {
-      "totalLinesAdded": 1832,
-      "totalLinesRemoved": 848,
-      "totalActiveTime": 25,
+      "totalLinesAdded": 1955,
+      "totalLinesRemoved": 1106,
+      "totalActiveTime": 31,
       "files": {
         "c:\\tugas\\sewa-mobil\\routes\\web.php": [
           {
@@ -150,6 +150,20 @@
             },
             "duration": 2,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-06-06T08:45:52.725Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\resources\\views\\admin\\dashboard.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 137,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
@@ -223,6 +237,50 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-06T08:48:47.705Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\resources\\views\\layouts\\admin.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 121,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          }
+        ],
+        "c:\\tugas\\sewa-mobil\\resources\\views\\partials\\sidebar.blade.php": [
+          {
+            "timestamp": "2025-06-06T08:49:29.849Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\resources\\views\\partials\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-06T08:49:31.070Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\resources\\views\\partials\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 122,
+            "linesRemoved": 0,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
