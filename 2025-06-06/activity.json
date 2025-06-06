@@ -2,7 +2,7 @@
   "date": "2025-06-06",
   "projects": {
     "sewa-mobil": {
-      "totalLinesAdded": 2237,
+      "totalLinesAdded": 2238,
       "totalLinesRemoved": 1192,
       "totalActiveTime": 46,
       "files": {
@@ -397,6 +397,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tugas\\sewa-mobil\\resources\\views\\layouts\\frontend.blade.php": [
+          {
+            "timestamp": "2025-06-06T09:09:55.450Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\resources\\views\\layouts\\frontend.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
