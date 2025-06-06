@@ -3,8 +3,8 @@
   "projects": {
     "sewa-mobil": {
       "totalLinesAdded": 1832,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 18,
+      "totalLinesRemoved": 848,
+      "totalActiveTime": 25,
       "files": {
         "c:\\tugas\\sewa-mobil\\routes\\web.php": [
           {
@@ -136,6 +136,20 @@
             },
             "duration": 0,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-06-06T08:43:53.126Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\resources\\views\\admin\\dashboard.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 519,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
           }
         ],
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
@@ -181,6 +195,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-06T08:42:32.337Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\resources\\views\\layouts\\admin.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 315,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-06T08:45:41.458Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\resources\\views\\layouts\\admin.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ]
