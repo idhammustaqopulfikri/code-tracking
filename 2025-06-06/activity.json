@@ -787,6 +787,39 @@
         "c:\\tugas\\sewa-mobil\\routes\\web.php"
       ],
       "averageChangeSize": 8
+    },
+    "SiDesa": {
+      "totalLinesAdded": 33,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\autodidak\\SiDesa\\app\\Http\\Middleware\\RoleMiddleware.php": [
+          {
+            "timestamp": "2025-06-06T14:35:12.128Z",
+            "fileName": "c:\\autodidak\\SiDesa\\app\\Http\\Middleware\\RoleMiddleware.php",
+            "fileType": ".php",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "SiDesa",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "21": 0
+      },
+      "topFiles": [
+        "c:\\autodidak\\SiDesa\\app\\Http\\Middleware\\RoleMiddleware.php"
+      ],
+      "averageChangeSize": 33
     }
   },
   "totalActiveTime": 0,
