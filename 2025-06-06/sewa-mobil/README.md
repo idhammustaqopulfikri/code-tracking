@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2677                                          |
+| **Lines Added** (➕)   | 2750                                          |
 | **Lines Removed** (➖) | 1281                                        |
-| **Net Change** (↕)    | 1396                |
-| **Active Time** (⌚)   | 82 minutes |
+| **Net Change** (↕)    | 1469                |
+| **Active Time** (⌚)   | 84 minutes |
 
 
 ## Modified Files
@@ -25,6 +25,8 @@
 - **.env** (+66, -0)
 - **0001_01_01_000000_create_users_table.php** (+51, -0)
 - **app.php** (+46, -23)
+- **RoleMiddleware.php** (+33, -0)
+- **ConfirmPasswordController.php** (+40, -0)
 
 ## Visualizations
 
@@ -33,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 3655
+".php" : 3728
 ".json" : 237
 "unknown" : 66
 ```
@@ -46,8 +48,8 @@ title Coding activity by hour (count of changes)
 "15h" : 27
 "16h" : 14
 "20h" : 1
-"21h" : 11
+"21h" : 14
 ```
 
 
-> **Last Updated:** 6/6/2025, 9:30:21 PM
+> **Last Updated:** 6/6/2025, 9:40:21 PM
