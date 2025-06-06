@@ -2,9 +2,9 @@
   "date": "2025-06-06",
   "projects": {
     "sewa-mobil": {
-      "totalLinesAdded": 2629,
+      "totalLinesAdded": 2654,
       "totalLinesRemoved": 1257,
-      "totalActiveTime": 69,
+      "totalActiveTime": 75,
       "files": {
         "c:\\tugas\\sewa-mobil\\routes\\web.php": [
           {
@@ -117,6 +117,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-06T14:05:23.794Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-06T14:07:20.459Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ],
@@ -610,6 +638,36 @@
             "fileName": "c:\\tugas\\sewa-mobil\\database\\migrations\\0001_01_01_000000_create_users_table.php",
             "fileType": ".php",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tugas\\sewa-mobil\\bootstrap\\app.php": [
+          {
+            "timestamp": "2025-06-06T14:09:56.546Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\bootstrap\\app.php",
+            "fileType": ".php",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "sewa-mobil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-06T14:09:57.984Z",
+            "fileName": "c:\\tugas\\sewa-mobil\\bootstrap\\app.php",
+            "fileType": ".php",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "sewa-mobil",
             "content": {
