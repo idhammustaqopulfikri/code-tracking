@@ -1,0 +1,47 @@
+{
+  "date": "2025-06-07",
+  "projects": {
+    "studio-backend": {
+      "totalLinesAdded": 92,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php": [
+          {
+            "timestamp": "2025-06-07T04:46:52.598Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php",
+            "fileType": ".php",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php"
+      ],
+      "averageChangeSize": 92
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
