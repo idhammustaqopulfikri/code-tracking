@@ -2,9 +2,9 @@
   "date": "2025-06-07",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 643,
+      "totalLinesAdded": 669,
       "totalLinesRemoved": 11,
-      "totalActiveTime": 16,
+      "totalActiveTime": 24,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\login.blade.php": [
           {
@@ -159,6 +159,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-07T05:23:23.808Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Middleware\\RoleMiddleware.php",
+            "fileType": ".php",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-07T05:27:44.178Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Middleware\\RoleMiddleware.php",
+            "fileType": ".php",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "php"
           }
         ]
