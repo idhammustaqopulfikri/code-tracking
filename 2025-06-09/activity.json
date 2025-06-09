@@ -2,9 +2,9 @@
   "date": "2025-06-09",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 695,
+      "totalLinesAdded": 762,
       "totalLinesRemoved": 92,
-      "totalActiveTime": 42,
+      "totalActiveTime": 43,
       "files": {
         "c:\\ujicoba\\studio-backend\\routes\\web.php": [
           {
@@ -365,6 +365,36 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\products\\index.blade.php": [
+          {
+            "timestamp": "2025-06-09T13:04:13.559Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\products\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-09T13:04:15.573Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\products\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
