@@ -2,9 +2,9 @@
   "date": "2025-06-09",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 514,
-      "totalLinesRemoved": 83,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 516,
+      "totalLinesRemoved": 90,
+      "totalActiveTime": 26,
       "files": {
         "c:\\ujicoba\\studio-backend\\routes\\web.php": [
           {
@@ -214,6 +214,48 @@
             "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\show.blade.php",
             "fileType": ".php",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-09T12:39:50.555Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\show.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-09T12:40:18.726Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\show.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-09T12:40:24.425Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\show.blade.php",
+            "fileType": ".php",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "studio-backend",
             "content": {
