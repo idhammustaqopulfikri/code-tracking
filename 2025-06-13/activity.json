@@ -35,9 +35,9 @@
       "averageChangeSize": 23
     },
     "studio-backend": {
-      "totalLinesAdded": 438,
+      "totalLinesAdded": 476,
       "totalLinesRemoved": 23,
-      "totalActiveTime": 18,
+      "totalActiveTime": 20,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php": [
           {
@@ -196,6 +196,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\booking\\BookingPodcas\\resources\\views\\products\\create.blade.php": [
+          {
+            "timestamp": "2025-06-13T11:24:41.561Z",
+            "fileName": "c:\\booking\\BookingPodcas\\resources\\views\\products\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ]
