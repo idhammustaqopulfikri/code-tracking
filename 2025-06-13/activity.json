@@ -35,9 +35,9 @@
       "averageChangeSize": 23
     },
     "studio-backend": {
-      "totalLinesAdded": 947,
-      "totalLinesRemoved": 253,
-      "totalActiveTime": 60,
+      "totalLinesAdded": 1111,
+      "totalLinesRemoved": 256,
+      "totalActiveTime": 66,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php": [
           {
@@ -582,6 +582,50 @@
             "fileType": ".php",
             "linesAdded": 18,
             "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\index.blade.php": [
+          {
+            "timestamp": "2025-06-13T12:21:40.040Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T12:21:53.027Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T12:22:37.814Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\rooms\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "studio-backend",
             "content": {
               "added": [],
