@@ -35,9 +35,9 @@
       "averageChangeSize": 23
     },
     "studio-backend": {
-      "totalLinesAdded": 502,
-      "totalLinesRemoved": 29,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 655,
+      "totalLinesRemoved": 47,
+      "totalActiveTime": 35,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php": [
           {
@@ -242,6 +242,124 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T11:39:46.790Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\seeders\\RoleSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php": [
+          {
+            "timestamp": "2025-06-13T11:39:05.215Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T11:39:06.920Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\app\\Models\\Role.php": [
+          {
+            "timestamp": "2025-06-13T11:39:28.829Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\Role.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T11:39:29.768Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\Role.php",
+            "fileType": ".php",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\database\\seeders\\UserSeeder.php": [
+          {
+            "timestamp": "2025-06-13T11:41:18.221Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\seeders\\UserSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T11:41:19.535Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\seeders\\UserSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T11:43:06.562Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\seeders\\UserSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ]
