@@ -33,6 +33,81 @@
         "c:\\tugas\\sewa-mobil\\bootstrap\\app.php"
       ],
       "averageChangeSize": 23
+    },
+    "studio-backend": {
+      "totalLinesAdded": 41,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php": [
+          {
+            "timestamp": "2025-06-13T11:10:57.878Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T11:11:00.081Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T11:13:03.719Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T11:13:27.892Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 5
+      },
+      "changeFrequency": {
+        "18": 5
+      },
+      "topFiles": [
+        "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php"
+      ],
+      "averageChangeSize": 10.5
     }
   },
   "totalActiveTime": 0,
