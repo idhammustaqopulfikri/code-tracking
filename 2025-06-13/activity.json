@@ -35,9 +35,9 @@
       "averageChangeSize": 23
     },
     "studio-backend": {
-      "totalLinesAdded": 945,
-      "totalLinesRemoved": 202,
-      "totalActiveTime": 52,
+      "totalLinesAdded": 947,
+      "totalLinesRemoved": 253,
+      "totalActiveTime": 60,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php": [
           {
@@ -313,6 +313,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T12:14:31.408Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\seeders\\RoleSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php": [
@@ -343,6 +357,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T12:13:34.113Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\ujicoba\\studio-backend\\app\\Models\\Role.php": [
@@ -366,6 +394,20 @@
             "fileType": ".php",
             "linesAdded": 14,
             "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T12:13:52.878Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\Role.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 14,
             "projectName": "studio-backend",
             "content": {
               "added": [],
@@ -453,6 +495,48 @@
             "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
             "fileType": ".php",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T12:17:11.105Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T12:17:35.801Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-13T12:18:26.620Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "studio-backend",
             "content": {
