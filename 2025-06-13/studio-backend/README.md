@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 749                                          |
-| **Lines Removed** (➖) | 52                                        |
+| **Lines Added** (➕)   | 787                                          |
+| **Lines Removed** (➖) | 90                                        |
 | **Net Change** (↕)    | 697                |
-| **Active Time** (⌚)   | 37 minutes |
+| **Active Time** (⌚)   | 44 minutes |
 
 
 ## Modified Files
 - **sidebar.blade.php** (+41, -6)
 - **settings.json** (+237, -0)
-- **index.blade.php** (+160, -17)
+- **index.blade.php** (+198, -55)
 - **create.blade.php** (+38, -0)
 - **RoleSeeder.php** (+38, -6)
 - **0001_01_01_000000_create_users_table.php** (+73, -0)
@@ -28,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 564
+".php" : 640
 ".json" : 237
 ```
 
@@ -38,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "18h" : 22
-"19h" : 3
+"19h" : 5
 ```
 
 
-> **Last Updated:** 6/13/2025, 7:03:31 PM
+> **Last Updated:** 6/13/2025, 7:08:31 PM
