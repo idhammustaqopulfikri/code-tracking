@@ -3,8 +3,8 @@
   "projects": {
     "studio-backend": {
       "totalLinesAdded": 1534,
-      "totalLinesRemoved": 540,
-      "totalActiveTime": 45,
+      "totalLinesRemoved": 656,
+      "totalActiveTime": 50,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\index.blade.php": [
           {
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-15T09:01:09.721Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ],
@@ -375,6 +389,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-15T08:59:55.290Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Models\\Booking.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 105,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ],
