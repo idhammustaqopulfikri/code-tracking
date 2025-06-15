@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 943                                          |
-| **Lines Removed** (➖) | 107                                        |
-| **Net Change** (↕)    | 836                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Lines Added** (➕)   | 1172                                          |
+| **Lines Removed** (➖) | 281                                        |
+| **Net Change** (↕)    | 891                |
+| **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,7 @@
 - **Payment.php** (+42, -0)
 - **index.blade.php** (+143, -0)
 - **Booking.php** (+2, -1)
+- **create.blade.php** (+229, -174)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 813
+".php" : 1216
 ".json" : 237
 ```
 
@@ -41,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "13h" : 3
 "14h" : 3
-"15h" : 19
+"15h" : 22
 ```
 
 
-> **Last Updated:** 6/15/2025, 3:48:20 PM
+> **Last Updated:** 6/15/2025, 3:53:20 PM
