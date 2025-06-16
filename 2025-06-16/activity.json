@@ -3,8 +3,8 @@
   "projects": {
     "studio-backend": {
       "totalLinesAdded": 1191,
-      "totalLinesRemoved": 70,
-      "totalActiveTime": 75,
+      "totalLinesRemoved": 77,
+      "totalActiveTime": 76,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php": [
           {
@@ -539,6 +539,34 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-16T08:13:05.671Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\users\\edit.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-16T08:13:26.789Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\users\\edit.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "studio-backend",
             "content": {
               "added": [],
