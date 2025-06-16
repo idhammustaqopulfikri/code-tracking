@@ -2,9 +2,9 @@
   "date": "2025-06-16",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 1082,
-      "totalLinesRemoved": 39,
-      "totalActiveTime": 60,
+      "totalLinesAdded": 1189,
+      "totalLinesRemoved": 64,
+      "totalActiveTime": 62,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php": [
           {
@@ -332,6 +332,34 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-06-16T07:57:07.758Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\users\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-16T07:57:28.298Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\users\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
@@ -384,6 +412,20 @@
             "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\users\\edit.blade.php",
             "fileType": ".php",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-16T07:57:53.682Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\users\\edit.blade.php",
+            "fileType": ".php",
+            "linesAdded": 82,
             "linesRemoved": 0,
             "projectName": "studio-backend",
             "content": {
