@@ -2,9 +2,9 @@
   "date": "2025-06-16",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 1616,
-      "totalLinesRemoved": 98,
-      "totalActiveTime": 102,
+      "totalLinesAdded": 1702,
+      "totalLinesRemoved": 103,
+      "totalActiveTime": 105,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php": [
           {
@@ -803,6 +803,36 @@
             "fileType": ".php",
             "linesAdded": 13,
             "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php": [
+          {
+            "timestamp": "2025-06-16T08:50:20.178Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php",
+            "fileType": ".php",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-16T08:51:02.783Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\AuthController.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "studio-backend",
             "content": {
               "added": [],

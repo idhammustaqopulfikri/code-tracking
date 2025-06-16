@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1616                                          |
-| **Lines Removed** (➖) | 98                                        |
-| **Net Change** (↕)    | 1518                |
-| **Active Time** (⌚)   | 102 minutes |
+| **Lines Added** (➕)   | 1702                                          |
+| **Lines Removed** (➖) | 103                                        |
+| **Net Change** (↕)    | 1599                |
+| **Active Time** (⌚)   | 105 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,7 @@
 - **User.php** (+67, -13)
 - **0001_01_01_000000_create_users_table.php** (+64, -1)
 - **web.php** (+85, -0)
+- **AuthController.php** (+86, -5)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 1477
+".php" : 1568
 ".json" : 237
 ```
 
@@ -41,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "13h" : 18
 "14h" : 12
-"15h" : 26
+"15h" : 28
 ```
 
 
-> **Last Updated:** 6/16/2025, 3:49:58 PM
+> **Last Updated:** 6/16/2025, 3:54:58 PM
