@@ -2,9 +2,9 @@
   "date": "2025-06-16",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 2211,
+      "totalLinesAdded": 2293,
       "totalLinesRemoved": 104,
-      "totalActiveTime": 111,
+      "totalActiveTime": 116,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\layouts\\sidebar.blade.php": [
           {
@@ -692,6 +692,20 @@
             },
             "duration": 4,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-06-16T12:23:13.614Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Requests\\UserRequest.php",
+            "fileType": ".php",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
           }
         ],
         "c:\\ujicoba\\studio-backend\\app\\Models\\User.php": [
@@ -940,6 +954,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-06-16T12:24:31.493Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\database\\seeders\\UserSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\ujicoba\\studio-backend\\resources\\views\\auth\\register.blade.php": [
@@ -955,6 +983,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\ujicoba\\studio-backend\\app\\Http\\Resources\\UserResource.php": [
+          {
+            "timestamp": "2025-06-16T12:23:52.956Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Resources\\UserResource.php",
+            "fileType": ".php",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-16T12:23:54.372Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Resources\\UserResource.php",
+            "fileType": ".php",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
