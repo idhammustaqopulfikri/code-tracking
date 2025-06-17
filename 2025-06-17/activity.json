@@ -3,7 +3,7 @@
   "projects": {
     "studio-backend": {
       "totalLinesAdded": 624,
-      "totalLinesRemoved": 11,
+      "totalLinesRemoved": 149,
       "totalActiveTime": 13,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\products\\index.blade.php": [
@@ -103,6 +103,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-17T15:25:44.286Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\products\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 138,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
