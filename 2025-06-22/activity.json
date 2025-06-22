@@ -3,8 +3,8 @@
   "projects": {
     "studio-backend": {
       "totalLinesAdded": 3017,
-      "totalLinesRemoved": 731,
-      "totalActiveTime": 128,
+      "totalLinesRemoved": 788,
+      "totalActiveTime": 136,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\index.blade.php": [
           {
@@ -554,6 +554,20 @@
             },
             "duration": 0,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-06-22T16:31:04.217Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 52,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
           }
         ],
         "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\BookingController.php": [
@@ -779,6 +793,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-22T16:32:59.073Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-22T16:33:15.860Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
