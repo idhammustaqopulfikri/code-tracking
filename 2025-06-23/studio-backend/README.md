@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 462                                          |
-| **Lines Removed** (➖) | 397                                        |
-| **Net Change** (↕)    | 65                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Lines Added** (➕)   | 551                                          |
+| **Lines Removed** (➖) | 637                                        |
+| **Net Change** (↕)    | -86                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
-- **create.blade.php** (+427, -386)
-- **BookingController.php** (+35, -11)
+- **create.blade.php** (+511, -598)
+- **BookingController.php** (+40, -39)
 
 ## Visualizations
 
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 859
+".php" : 1188
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +30,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 14
-"01h" : 4
+"01h" : 11
 ```
 
 
-> **Last Updated:** 6/23/2025, 1:09:33 AM
+> **Last Updated:** 6/23/2025, 1:14:33 AM
