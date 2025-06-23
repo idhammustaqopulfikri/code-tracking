@@ -2,7 +2,7 @@
   "date": "2025-06-23",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 1332,
+      "totalLinesAdded": 1348,
       "totalLinesRemoved": 683,
       "totalActiveTime": 47,
       "files": {
@@ -539,6 +539,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-23T01:25:38.070Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
