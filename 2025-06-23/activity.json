@@ -3,8 +3,8 @@
   "projects": {
     "studio-backend": {
       "totalLinesAdded": 1332,
-      "totalLinesRemoved": 678,
-      "totalActiveTime": 44,
+      "totalLinesRemoved": 683,
+      "totalActiveTime": 47,
       "files": {
         "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\create.blade.php": [
           {
@@ -439,6 +439,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-06-23T01:15:01.840Z",
+            "fileName": "c:\\ujicoba\\studio-backend\\resources\\views\\bookings\\create.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ],
