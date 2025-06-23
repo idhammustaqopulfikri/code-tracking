@@ -2,7 +2,7 @@
   "date": "2025-06-23",
   "projects": {
     "studio-backend": {
-      "totalLinesAdded": 1095,
+      "totalLinesAdded": 1332,
       "totalLinesRemoved": 678,
       "totalActiveTime": 44,
       "files": {
@@ -542,6 +542,22 @@
             },
             "duration": 0,
             "language": "php"
+          }
+        ],
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-06-23T01:12:56.138Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 237,
+            "linesRemoved": 0,
+            "projectName": "studio-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
