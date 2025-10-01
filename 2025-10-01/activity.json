@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-01",
+  "projects": {
+    "DesaKu": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\xampp\\htdocs\\tes\\DesaKu\\.env": [
+          {
+            "timestamp": "2025-10-01T12:38:31.751Z",
+            "fileName": "c:\\xampp\\htdocs\\tes\\DesaKu\\.env",
+            "fileType": "unknown",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "DesaKu",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0
+      },
+      "changeFrequency": {
+        "19": 0
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\tes\\DesaKu\\.env"
+      ],
+      "averageChangeSize": 66
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "unknown"
+  ]
+}
