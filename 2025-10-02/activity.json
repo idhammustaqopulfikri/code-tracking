@@ -94,6 +94,39 @@
         "c:\\xampp\\php\\php.ini"
       ],
       "averageChangeSize": 1023.5
+    },
+    "User": {
+      "totalLinesAdded": 244,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-10-02T13:31:37.624Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 244,
+            "linesRemoved": 0,
+            "projectName": "User",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "20": 0
+      },
+      "topFiles": [
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 244
     }
   },
   "totalActiveTime": 3,
