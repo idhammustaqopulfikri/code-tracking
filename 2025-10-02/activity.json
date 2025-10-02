@@ -1,0 +1,61 @@
+{
+  "date": "2025-10-02",
+  "projects": {
+    "futsal2": {
+      "totalLinesAdded": 18,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\snippets\\html.json.code-snippets": [
+          {
+            "timestamp": "2025-10-02T09:24:17.623Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\snippets\\html.json.code-snippets",
+            "fileType": ".code-snippets",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "futsal2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "code-snippets"
+          },
+          {
+            "timestamp": "2025-10-02T09:26:23.518Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\snippets\\html.json.code-snippets",
+            "fileType": ".code-snippets",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "futsal2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "code-snippets"
+          }
+        ]
+      },
+      "languageStats": {
+        "code-snippets": 3
+      },
+      "changeFrequency": {
+        "16": 3
+      },
+      "topFiles": [
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\snippets\\html.json.code-snippets"
+      ],
+      "averageChangeSize": 13
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "code-snippets"
+  ]
+}
