@@ -47,6 +47,53 @@
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\snippets\\html.json.code-snippets"
       ],
       "averageChangeSize": 13
+    },
+    "php": {
+      "totalLinesAdded": 2021,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\xampp\\php\\php.ini": [
+          {
+            "timestamp": "2025-10-02T13:11:19.341Z",
+            "fileName": "c:\\xampp\\php\\php.ini",
+            "fileType": ".ini",
+            "linesAdded": 2021,
+            "linesRemoved": 0,
+            "projectName": "php",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ini"
+          },
+          {
+            "timestamp": "2025-10-02T13:11:30.902Z",
+            "fileName": "c:\\xampp\\php\\php.ini",
+            "fileType": ".ini",
+            "linesAdded": 0,
+            "linesRemoved": 26,
+            "projectName": "php",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ini"
+          }
+        ]
+      },
+      "languageStats": {
+        "ini": 1
+      },
+      "changeFrequency": {
+        "20": 1
+      },
+      "topFiles": [
+        "c:\\xampp\\php\\php.ini"
+      ],
+      "averageChangeSize": 1023.5
     }
   },
   "totalActiveTime": 3,
