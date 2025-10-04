@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-04",
+  "projects": {
+    "KotaKecil": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\ngetes\\KotaKecil\\.env": [
+          {
+            "timestamp": "2025-10-04T10:27:50.512Z",
+            "fileName": "c:\\ngetes\\KotaKecil\\.env",
+            "fileType": "unknown",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "KotaKecil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "c:\\ngetes\\KotaKecil\\.env"
+      ],
+      "averageChangeSize": 66
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "unknown"
+  ]
+}
