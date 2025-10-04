@@ -2,7 +2,7 @@
   "date": "2025-10-04",
   "projects": {
     "KotaKecil": {
-      "totalLinesAdded": 66,
+      "totalLinesAdded": 73,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "unknown"
+          }
+        ],
+        "c:\\ngetes\\KotaKecil\\bootstrap\\providers.php": [
+          {
+            "timestamp": "2025-10-04T10:35:04.915Z",
+            "fileName": "c:\\ngetes\\KotaKecil\\bootstrap\\providers.php",
+            "fileType": ".php",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "KotaKecil",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
           }
         ]
       },
