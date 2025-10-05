@@ -625,9 +625,9 @@
       "averageChangeSize": 164.5
     },
     "lapangan-futsal": {
-      "totalLinesAdded": 130,
-      "totalLinesRemoved": 20,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 649,
+      "totalLinesRemoved": 69,
+      "totalActiveTime": 21,
       "files": {
         "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100637_create_fiedls_table.php": [
           {
@@ -710,6 +710,216 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Models\\Field.php": [
+          {
+            "timestamp": "2025-10-05T10:57:10.423Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Models\\Field.php",
+            "fileType": ".php",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-05T10:57:11.134Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Models\\Field.php",
+            "fileType": ".php",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Models\\Package.php": [
+          {
+            "timestamp": "2025-10-05T10:57:55.907Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Models\\Package.php",
+            "fileType": ".php",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-05T10:58:02.862Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Models\\Package.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Models\\Booking.php": [
+          {
+            "timestamp": "2025-10-05T10:58:37.287Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Models\\Booking.php",
+            "fileType": ".php",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-05T10:58:41.404Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Models\\Booking.php",
+            "fileType": ".php",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Http\\Controllers\\FieldController.php": [
+          {
+            "timestamp": "2025-10-05T10:59:38.971Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Http\\Controllers\\FieldController.php",
+            "fileType": ".php",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-05T10:59:43.714Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Http\\Controllers\\FieldController.php",
+            "fileType": ".php",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Http\\Controllers\\PackageController.php": [
+          {
+            "timestamp": "2025-10-05T11:00:12.411Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Http\\Controllers\\PackageController.php",
+            "fileType": ".php",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-05T11:00:13.756Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Http\\Controllers\\PackageController.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Http\\Controllers\\BookingController.php": [
+          {
+            "timestamp": "2025-10-05T11:00:33.922Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-05T11:00:38.072Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\app\\Http\\Controllers\\BookingController.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\routes\\web.php": [
+          {
+            "timestamp": "2025-10-05T11:01:28.537Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-05T11:01:29.709Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "lapangan-futsal",
             "content": {
               "added": [],
