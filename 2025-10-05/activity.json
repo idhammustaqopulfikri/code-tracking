@@ -1,0 +1,64 @@
+{
+  "date": "2025-10-05",
+  "projects": {
+    "futsal": {
+      "totalLinesAdded": 212,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\xampp\\htdocs\\futsal\\app\\Config\\App.php": [
+          {
+            "timestamp": "2025-10-05T03:41:57.700Z",
+            "fileName": "c:\\xampp\\htdocs\\futsal\\app\\Config\\App.php",
+            "fileType": ".php",
+            "linesAdded": 203,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\futsal\\app\\Config\\Routes.php": [
+          {
+            "timestamp": "2025-10-05T03:43:11.525Z",
+            "fileName": "c:\\xampp\\htdocs\\futsal\\app\\Config\\Routes.php",
+            "fileType": ".php",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "10": 2
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\futsal\\app\\Config\\App.php",
+        "c:\\xampp\\htdocs\\futsal\\app\\Config\\Routes.php"
+      ],
+      "averageChangeSize": 106
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
