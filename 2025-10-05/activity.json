@@ -114,9 +114,9 @@
       "averageChangeSize": 106
     },
     "laravel-penyewaan-lapangan-futsal": {
-      "totalLinesAdded": 484,
+      "totalLinesAdded": 497,
       "totalLinesRemoved": 23,
-      "totalActiveTime": 7,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -212,6 +212,20 @@
             "fileName": "c:\\xampp\\htdocs\\futsal\\laravel-penyewaan-lapangan-futsal\\resources\\views\\lapangan\\index.blade.php",
             "fileType": ".php",
             "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "laravel-penyewaan-lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-05T05:27:15.525Z",
+            "fileName": "c:\\xampp\\htdocs\\futsal\\laravel-penyewaan-lapangan-futsal\\resources\\views\\lapangan\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "laravel-penyewaan-lapangan-futsal",
             "content": {
