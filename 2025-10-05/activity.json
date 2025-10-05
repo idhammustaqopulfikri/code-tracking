@@ -623,6 +623,115 @@
         "c:\\xampp\\htdocs\\futsal\\laravel-penyewaan-lapangan-futsal\\.env"
       ],
       "averageChangeSize": 164.5
+    },
+    "lapangan-futsal": {
+      "totalLinesAdded": 130,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100637_create_fiedls_table.php": [
+          {
+            "timestamp": "2025-10-05T10:53:29.661Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100637_create_fiedls_table.php",
+            "fileType": ".php",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-05T10:53:34.749Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100637_create_fiedls_table.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100715_create_packages_table.php": [
+          {
+            "timestamp": "2025-10-05T10:54:27.266Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100715_create_packages_table.php",
+            "fileType": ".php",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-05T10:54:30.904Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100715_create_packages_table.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100731_create_bookings_table.php": [
+          {
+            "timestamp": "2025-10-05T10:55:46.519Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100731_create_bookings_table.php",
+            "fileType": ".php",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-05T10:55:47.375Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100731_create_bookings_table.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 6
+      },
+      "changeFrequency": {
+        "17": 6
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100637_create_fiedls_table.php",
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100715_create_packages_table.php",
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100731_create_bookings_table.php"
+      ],
+      "averageChangeSize": 25
     }
   },
   "totalActiveTime": 2,
