@@ -625,9 +625,9 @@
       "averageChangeSize": 164.5
     },
     "lapangan-futsal": {
-      "totalLinesAdded": 795,
+      "totalLinesAdded": 851,
       "totalLinesRemoved": 69,
-      "totalActiveTime": 26,
+      "totalActiveTime": 29,
       "files": {
         "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\database\\migrations\\2025_05_27_100637_create_fiedls_table.php": [
           {
@@ -958,6 +958,38 @@
               "removed": []
             },
             "duration": 3,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\resources\\views\\layouts\\footer.blade.php": [
+          {
+            "timestamp": "2025-10-05T11:07:53.608Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\resources\\views\\layouts\\footer.blade.php",
+            "fileType": ".php",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\resources\\views\\layouts\\app.blade.php": [
+          {
+            "timestamp": "2025-10-05T11:08:37.498Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
