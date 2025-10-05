@@ -2,7 +2,7 @@
   "date": "2025-10-05",
   "projects": {
     "futsal": {
-      "totalLinesAdded": 235,
+      "totalLinesAdded": 497,
       "totalLinesRemoved": 0,
       "totalActiveTime": 8,
       "files": {
@@ -74,6 +74,22 @@
             "fileName": "c:\\xampp\\htdocs\\futsal\\.vscode\\settings.json",
             "fileType": ".json",
             "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-10-05T04:31:48.526Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 262,
             "linesRemoved": 0,
             "projectName": "futsal",
             "content": {
