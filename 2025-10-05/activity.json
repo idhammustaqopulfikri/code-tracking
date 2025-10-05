@@ -625,7 +625,7 @@
       "averageChangeSize": 164.5
     },
     "lapangan-futsal": {
-      "totalLinesAdded": 2429,
+      "totalLinesAdded": 2570,
       "totalLinesRemoved": 69,
       "totalActiveTime": 45,
       "files": {
@@ -1157,6 +1157,22 @@
             "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\resources\\views\\bookings\\create.blade.php",
             "fileType": ".php",
             "linesAdded": 293,
+            "linesRemoved": 0,
+            "projectName": "lapangan-futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\resources\\views\\bookings\\index.blade.php": [
+          {
+            "timestamp": "2025-10-05T11:58:18.067Z",
+            "fileName": "c:\\xampp\\htdocs\\ujicoba\\lapangan-futsal\\resources\\views\\bookings\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 141,
             "linesRemoved": 0,
             "projectName": "lapangan-futsal",
             "content": {
