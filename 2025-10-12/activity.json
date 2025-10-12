@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-12",
+  "projects": {
+    "Desktop": {
+      "totalLinesAdded": 262,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-10-12T14:21:27.033Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 262,
+            "linesRemoved": 0,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "21": 0
+      },
+      "topFiles": [
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 262
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
