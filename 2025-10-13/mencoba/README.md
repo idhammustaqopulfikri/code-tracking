@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 907                                          |
+| **Lines Added** (➕)   | 1101                                          |
 | **Lines Removed** (➖) | 295                                        |
-| **Net Change** (↕)    | 612                |
-| **Active Time** (⌚)   | 19 minutes |
+| **Net Change** (↕)    | 806                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
-- **ujicoba.ipynb** (+430, -295)
+- **ujicoba.ipynb** (+624, -295)
 - **settings.json** (+262, -0)
 - **gui_defender2.py** (+108, -0)
 - **gui_defender2.py** (+107, -0)
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ipynb" : 725
+".ipynb" : 919
 ".json" : 262
 ".py" : 215
 ```
@@ -34,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 5
-"15h" : 10
+"15h" : 11
 ```
 
 
-> **Last Updated:** 10/13/2025, 3:48:30 PM
+> **Last Updated:** 10/13/2025, 3:53:30 PM
