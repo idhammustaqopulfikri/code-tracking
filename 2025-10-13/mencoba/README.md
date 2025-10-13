@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 622                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 622                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Lines Added** (➕)   | 637                                          |
+| **Lines Removed** (➖) | 58                                        |
+| **Net Change** (↕)    | 579                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
-- **ujicoba.ipynb** (+360, -0)
+- **ujicoba.ipynb** (+375, -58)
 - **settings.json** (+262, -0)
 
 ## Visualizations
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ipynb" : 360
+".ipynb" : 433
 ".json" : 262
 ```
 
@@ -31,7 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 5
+"15h" : 2
 ```
 
 
-> **Last Updated:** 10/13/2025, 2:58:30 PM
+> **Last Updated:** 10/13/2025, 3:18:30 PM
