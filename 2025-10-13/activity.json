@@ -2,9 +2,9 @@
   "date": "2025-10-13",
   "projects": {
     "mencoba": {
-      "totalLinesAdded": 692,
-      "totalLinesRemoved": 60,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 907,
+      "totalLinesRemoved": 81,
+      "totalActiveTime": 15,
       "files": {
         "c:\\mencoba\\ujicoba.ipynb": [
           {
@@ -132,6 +132,20 @@
             },
             "duration": 1,
             "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-13T08:43:27.711Z",
+            "fileName": "c:\\mencoba\\ujicoba.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "mencoba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ipynb"
           }
         ],
         "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
@@ -148,6 +162,52 @@
             },
             "duration": 5,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\lenovo\\OneDrive\\Documents\\gui_defender2.py": [
+          {
+            "timestamp": "2025-10-13T08:39:28.068Z",
+            "fileName": "c:\\Users\\lenovo\\OneDrive\\Documents\\gui_defender2.py",
+            "fileType": ".py",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "mencoba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\mencoba\\gui_defender2.py": [
+          {
+            "timestamp": "2025-10-13T08:42:02.002Z",
+            "fileName": "c:\\mencoba\\gui_defender2.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mencoba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-13T08:42:07.705Z",
+            "fileName": "c:\\mencoba\\gui_defender2.py",
+            "fileType": ".py",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "mencoba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
