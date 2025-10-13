@@ -2,7 +2,7 @@
   "date": "2025-10-13",
   "projects": {
     "mencoba": {
-      "totalLinesAdded": 1101,
+      "totalLinesAdded": 1451,
       "totalLinesRemoved": 295,
       "totalActiveTime": 22,
       "files": {
@@ -173,6 +173,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-13T09:08:06.561Z",
+            "fileName": "c:\\mencoba\\ujicoba.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 350,
+            "linesRemoved": 0,
+            "projectName": "mencoba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ipynb"
           }
         ],
