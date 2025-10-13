@@ -1,0 +1,61 @@
+{
+  "date": "2025-10-13",
+  "projects": {
+    "mencoba": {
+      "totalLinesAdded": 286,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\mencoba\\ujicoba.ipynb": [
+          {
+            "timestamp": "2025-10-13T07:35:00.116Z",
+            "fileName": "c:\\mencoba\\ujicoba.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "mencoba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-13T07:35:35.070Z",
+            "fileName": "c:\\mencoba\\ujicoba.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 188,
+            "linesRemoved": 0,
+            "projectName": "mencoba",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          }
+        ]
+      },
+      "languageStats": {
+        "ipynb": 1
+      },
+      "changeFrequency": {
+        "14": 1
+      },
+      "topFiles": [
+        "c:\\mencoba\\ujicoba.ipynb"
+      ],
+      "averageChangeSize": 143
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "ipynb"
+  ]
+}
