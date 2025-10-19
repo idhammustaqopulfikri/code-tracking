@@ -2,9 +2,9 @@
   "date": "2025-10-19",
   "projects": {
     "mengetes": {
-      "totalLinesAdded": 92,
+      "totalLinesAdded": 217,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "c:\\mengetes\\defender_block.py": [
           {
@@ -28,6 +28,36 @@
             "fileName": "c:\\mengetes\\ataccker.py",
             "fileType": ".py",
             "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "mengetes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\mengetes\\gui_defender2.py": [
+          {
+            "timestamp": "2025-10-19T14:52:21.577Z",
+            "fileName": "c:\\mengetes\\gui_defender2.py",
+            "fileType": ".py",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "mengetes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-19T14:52:23.407Z",
+            "fileName": "c:\\mengetes\\gui_defender2.py",
+            "fileType": ".py",
+            "linesAdded": 17,
             "linesRemoved": 0,
             "projectName": "mengetes",
             "content": {

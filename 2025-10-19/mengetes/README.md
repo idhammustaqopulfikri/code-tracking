@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 92                                          |
+| **Lines Added** (➕)   | 217                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 92                |
-| **Active Time** (⌚)   | 1 minute |
+| **Net Change** (↕)    | 217                |
+| **Active Time** (⌚)   | 2 minutes |
 
 
 ## Modified Files
 - **defender_block.py** (+64, -0)
 - **ataccker.py** (+28, -0)
+- **gui_defender2.py** (+125, -0)
 
 ## Visualizations
 
@@ -21,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 92
+".py" : 217
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"21h" : 2
+"21h" : 4
 ```
 
 
-> **Last Updated:** 10/19/2025, 9:43:54 PM
+> **Last Updated:** 10/19/2025, 9:53:54 PM
