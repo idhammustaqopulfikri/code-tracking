@@ -1,0 +1,64 @@
+{
+  "date": "2025-10-19",
+  "projects": {
+    "mengetes": {
+      "totalLinesAdded": 92,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\mengetes\\defender_block.py": [
+          {
+            "timestamp": "2025-10-19T14:40:59.922Z",
+            "fileName": "c:\\mengetes\\defender_block.py",
+            "fileType": ".py",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "mengetes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\mengetes\\ataccker.py": [
+          {
+            "timestamp": "2025-10-19T14:41:44.631Z",
+            "fileName": "c:\\mengetes\\ataccker.py",
+            "fileType": ".py",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "mengetes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "21": 1
+      },
+      "topFiles": [
+        "c:\\mengetes\\defender_block.py",
+        "c:\\mengetes\\ataccker.py"
+      ],
+      "averageChangeSize": 46
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
