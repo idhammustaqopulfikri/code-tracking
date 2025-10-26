@@ -33,6 +33,39 @@
         "c:\\footbal_jersey\\.env"
       ],
       "averageChangeSize": 68
+    },
+    "jersey-family": {
+      "totalLinesAdded": 262,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-10-26T10:22:00.951Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 262,
+            "linesRemoved": 0,
+            "projectName": "jersey-family",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 262
     }
   },
   "totalActiveTime": 0,
