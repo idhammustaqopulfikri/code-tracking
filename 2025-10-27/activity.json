@@ -1,0 +1,89 @@
+{
+  "date": "2025-10-27",
+  "projects": {
+    "footbal_jersey": {
+      "totalLinesAdded": 180,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\footbal_jersey\\football.sql": [
+          {
+            "timestamp": "2025-10-27T14:44:05.573Z",
+            "fileName": "c:\\footbal_jersey\\football.sql",
+            "fileType": ".sql",
+            "linesAdded": 178,
+            "linesRemoved": 0,
+            "projectName": "footbal_jersey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-10-27T14:44:07.938Z",
+            "fileName": "c:\\footbal_jersey\\football.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "footbal_jersey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-10-27T14:46:00.565Z",
+            "fileName": "c:\\footbal_jersey\\football.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "footbal_jersey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-10-27T14:47:25.784Z",
+            "fileName": "c:\\footbal_jersey\\football.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "footbal_jersey",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 5
+      },
+      "changeFrequency": {
+        "21": 5
+      },
+      "topFiles": [
+        "c:\\footbal_jersey\\football.sql"
+      ],
+      "averageChangeSize": 45.25
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "sql"
+  ]
+}
