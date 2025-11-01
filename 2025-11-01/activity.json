@@ -2,9 +2,9 @@
   "date": "2025-11-01",
   "projects": {
     "futsal_rekomendasi": {
-      "totalLinesAdded": 438,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 492,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 19,
       "files": {
         "c:\\tes\\futsal_rekomendasi\\bootstrap\\providers.php": [
           {
@@ -173,6 +173,50 @@
               "removed": []
             },
             "duration": 5,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal_rekomendasi\\app\\Filament\\Resources\\Courts\\Tables\\CourtsTable.php": [
+          {
+            "timestamp": "2025-11-01T07:46:49.588Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\app\\Filament\\Resources\\Courts\\Tables\\CourtsTable.php",
+            "fileType": ".php",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-01T07:46:51.696Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\app\\Filament\\Resources\\Courts\\Tables\\CourtsTable.php",
+            "fileType": ".php",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-01T07:47:57.633Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\app\\Filament\\Resources\\Courts\\Tables\\CourtsTable.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ]
