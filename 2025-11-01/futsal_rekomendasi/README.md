@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1109                                          |
-| **Lines Removed** (➖) | 136                                        |
-| **Net Change** (↕)    | 973                |
-| **Active Time** (⌚)   | 66 minutes |
+| **Lines Added** (➕)   | 1115                                          |
+| **Lines Removed** (➖) | 140                                        |
+| **Net Change** (↕)    | 975                |
+| **Active Time** (⌚)   | 75 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,7 @@
 - **BookingResource.php** (+59, -0)
 - **BookingHistoryForm.php** (+75, -0)
 - **BookingHistoriesTable.php** (+91, -0)
-- **BookingHistoryResource.php** (+71, -0)
+- **BookingHistoryResource.php** (+77, -4)
 
 ## Visualizations
 
@@ -35,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 983
+".php" : 993
 ".json" : 262
 ```
 
@@ -47,8 +47,8 @@ title Coding activity by hour (count of changes)
 "13h" : 1
 "14h" : 21
 "15h" : 15
-"16h" : 7
+"16h" : 10
 ```
 
 
-> **Last Updated:** 11/1/2025, 4:44:17 PM
+> **Last Updated:** 11/1/2025, 4:49:18 PM
