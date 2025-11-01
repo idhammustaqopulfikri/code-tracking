@@ -2,7 +2,7 @@
   "date": "2025-11-01",
   "projects": {
     "futsal_rekomendasi": {
-      "totalLinesAdded": 8,
+      "totalLinesAdded": 270,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "php"
+          }
+        ],
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-11-01T07:20:33.544Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 262,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
