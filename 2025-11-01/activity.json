@@ -2,9 +2,9 @@
   "date": "2025-11-01",
   "projects": {
     "futsal_rekomendasi": {
-      "totalLinesAdded": 270,
+      "totalLinesAdded": 399,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 5,
       "files": {
         "c:\\tes\\futsal_rekomendasi\\bootstrap\\providers.php": [
           {
@@ -36,6 +36,100 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\tes\\futsal_rekomendasi\\app\\Models\\Court.php": [
+          {
+            "timestamp": "2025-11-01T07:26:41.942Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\app\\Models\\Court.php",
+            "fileType": ".php",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal_rekomendasi\\database\\migrations\\2025_11_01_072603_create_courts_table.php": [
+          {
+            "timestamp": "2025-11-01T07:27:09.829Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\database\\migrations\\2025_11_01_072603_create_courts_table.php",
+            "fileType": ".php",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal_rekomendasi\\app\\Models\\Booking.php": [
+          {
+            "timestamp": "2025-11-01T07:27:45.343Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\app\\Models\\Booking.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-01T07:27:46.891Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\app\\Models\\Booking.php",
+            "fileType": ".php",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal_rekomendasi\\database\\migrations\\2025_11_01_072729_create_bookings_table.php": [
+          {
+            "timestamp": "2025-11-01T07:28:10.516Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\database\\migrations\\2025_11_01_072729_create_bookings_table.php",
+            "fileType": ".php",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal_rekomendasi\\app\\Models\\BookingHistory.php": [
+          {
+            "timestamp": "2025-11-01T07:29:04.193Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\app\\Models\\BookingHistory.php",
+            "fileType": ".php",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },
