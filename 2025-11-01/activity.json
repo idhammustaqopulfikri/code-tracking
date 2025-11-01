@@ -2,9 +2,9 @@
   "date": "2025-11-01",
   "projects": {
     "futsal_rekomendasi": {
-      "totalLinesAdded": 1115,
-      "totalLinesRemoved": 143,
-      "totalActiveTime": 75,
+      "totalLinesAdded": 1181,
+      "totalLinesRemoved": 144,
+      "totalActiveTime": 77,
       "files": {
         "c:\\tes\\futsal_rekomendasi\\bootstrap\\providers.php": [
           {
@@ -708,6 +708,36 @@
             },
             "duration": 0,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-11-01T11:00:05.435Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\app\\Filament\\Resources\\BookingHistories\\BookingHistoryResource.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal_rekomendasi\\.env": [
+          {
+            "timestamp": "2025-11-01T10:58:39.682Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\.env",
+            "fileType": "unknown",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
