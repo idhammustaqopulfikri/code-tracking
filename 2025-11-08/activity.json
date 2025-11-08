@@ -66,9 +66,9 @@
       "averageChangeSize": 62
     },
     "futsal": {
-      "totalLinesAdded": 979,
-      "totalLinesRemoved": 257,
-      "totalActiveTime": 78,
+      "totalLinesAdded": 995,
+      "totalLinesRemoved": 263,
+      "totalActiveTime": 89,
       "files": {
         "c:\\tes\\futsal\\.env": [
           {
@@ -355,6 +355,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T09:07:35.079Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\FieldResource.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ],
@@ -805,6 +819,64 @@
               "removed": []
             },
             "duration": 3,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\routes\\web.php": [
+          {
+            "timestamp": "2025-11-08T09:06:26.164Z",
+            "fileName": "c:\\tes\\futsal\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T09:06:34.719Z",
+            "fileName": "c:\\tes\\futsal\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T09:09:43.389Z",
+            "fileName": "c:\\tes\\futsal\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T09:10:08.781Z",
+            "fileName": "c:\\tes\\futsal\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
