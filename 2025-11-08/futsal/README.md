@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 951                                          |
+| **Lines Added** (➕)   | 979                                          |
 | **Lines Removed** (➖) | 227                                        |
-| **Net Change** (↕)    | 724                |
-| **Active Time** (⌚)   | 70 minutes |
+| **Net Change** (↕)    | 752                |
+| **Active Time** (⌚)   | 74 minutes |
 
 
 ## Modified Files
 - **.env** (+66, -0)
 - **2025_11_08_071839_create_fields_table.php** (+30, -0)
 - **Field.php** (+34, -0)
-- **FieldResource.php** (+163, -114)
+- **FieldResource.php** (+191, -114)
 - **FieldForm.php** (+59, -21)
 - **FieldsTable.php** (+197, -86)
 - **settings.json** (+262, -0)
@@ -32,7 +32,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 66
-".php" : 850
+".php" : 878
 ".json" : 262
 ```
 
@@ -42,8 +42,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 28
-"15h" : 20
+"15h" : 21
 ```
 
 
-> **Last Updated:** 11/8/2025, 3:50:23 PM
+> **Last Updated:** 11/8/2025, 3:55:25 PM
