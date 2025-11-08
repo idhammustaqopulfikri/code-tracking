@@ -66,9 +66,9 @@
       "averageChangeSize": 62
     },
     "futsal": {
-      "totalLinesAdded": 746,
-      "totalLinesRemoved": 83,
-      "totalActiveTime": 29,
+      "totalLinesAdded": 832,
+      "totalLinesRemoved": 95,
+      "totalActiveTime": 42,
       "files": {
         "c:\\tes\\futsal\\.env": [
           {
@@ -202,6 +202,34 @@
             },
             "duration": 4,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T07:56:01.053Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\FieldResource.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T07:56:54.555Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\FieldResource.php",
+            "fileType": ".php",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Schemas\\FieldForm.php": [
@@ -328,6 +356,126 @@
             "fileName": "c:\\tes\\futsal\\app\\Http\\Controllers\\RecommendationController.php",
             "fileType": ".php",
             "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\CreateField.php": [
+          {
+            "timestamp": "2025-11-08T07:58:36.656Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\CreateField.php",
+            "fileType": ".php",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T07:59:37.626Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\CreateField.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\EditField.php": [
+          {
+            "timestamp": "2025-11-08T07:58:52.537Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\EditField.php",
+            "fileType": ".php",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T07:59:39.301Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\EditField.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\ListFields.php": [
+          {
+            "timestamp": "2025-11-08T07:59:05.328Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\ListFields.php",
+            "fileType": ".php",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T07:59:40.985Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\ListFields.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\ViewField.php": [
+          {
+            "timestamp": "2025-11-08T07:59:17.088Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\ViewField.php",
+            "fileType": ".php",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T07:59:42.482Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\ViewField.php",
+            "fileType": ".php",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "futsal",
             "content": {
