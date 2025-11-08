@@ -67,8 +67,8 @@
     },
     "futsal": {
       "totalLinesAdded": 832,
-      "totalLinesRemoved": 95,
-      "totalActiveTime": 42,
+      "totalLinesRemoved": 107,
+      "totalActiveTime": 49,
       "files": {
         "c:\\tes\\futsal\\.env": [
           {
@@ -229,6 +229,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T08:01:46.868Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\FieldResource.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ],
@@ -454,6 +468,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T08:02:42.095Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\ListFields.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\ViewField.php": [
@@ -483,6 +511,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T08:05:10.104Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Pages\\ViewField.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ]
