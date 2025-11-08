@@ -67,7 +67,7 @@
     },
     "futsal": {
       "totalLinesAdded": 979,
-      "totalLinesRemoved": 227,
+      "totalLinesRemoved": 255,
       "totalActiveTime": 74,
       "files": {
         "c:\\tes\\futsal\\.env": [
@@ -327,6 +327,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T08:59:15.982Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\FieldResource.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
