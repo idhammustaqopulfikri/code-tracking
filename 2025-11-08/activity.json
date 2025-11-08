@@ -1,0 +1,78 @@
+{
+  "date": "2025-11-08",
+  "projects": {
+    "futsal_rekomendasi": {
+      "totalLinesAdded": 186,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\tes\\futsal_rekomendasi\\database\\migrations\\2025_11_01_072844_create_booking_histories_table.php": [
+          {
+            "timestamp": "2025-11-08T05:04:37.662Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\database\\migrations\\2025_11_01_072844_create_booking_histories_table.php",
+            "fileType": ".php",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal_rekomendasi\\app\\Filament\\Resources\\Bookings\\BookingResource.php": [
+          {
+            "timestamp": "2025-11-08T05:06:35.582Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\app\\Filament\\Resources\\Bookings\\BookingResource.php",
+            "fileType": ".php",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-08T05:06:42.370Z",
+            "fileName": "c:\\tes\\futsal_rekomendasi\\app\\Filament\\Resources\\Bookings\\BookingResource.php",
+            "fileType": ".php",
+            "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "futsal_rekomendasi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 3
+      },
+      "changeFrequency": {
+        "12": 3
+      },
+      "topFiles": [
+        "c:\\tes\\futsal_rekomendasi\\app\\Filament\\Resources\\Bookings\\BookingResource.php",
+        "c:\\tes\\futsal_rekomendasi\\database\\migrations\\2025_11_01_072844_create_booking_histories_table.php"
+      ],
+      "averageChangeSize": 62
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
