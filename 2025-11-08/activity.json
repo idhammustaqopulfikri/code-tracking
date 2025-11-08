@@ -64,6 +64,39 @@
         "c:\\tes\\futsal_rekomendasi\\database\\migrations\\2025_11_01_072844_create_booking_histories_table.php"
       ],
       "averageChangeSize": 62
+    },
+    "futsal": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\tes\\futsal\\.env": [
+          {
+            "timestamp": "2025-11-08T07:12:03.122Z",
+            "fileName": "c:\\tes\\futsal\\.env",
+            "fileType": "unknown",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "c:\\tes\\futsal\\.env"
+      ],
+      "averageChangeSize": 66
     }
   },
   "totalActiveTime": 3,
