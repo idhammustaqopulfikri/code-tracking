@@ -66,9 +66,9 @@
       "averageChangeSize": 62
     },
     "futsal": {
-      "totalLinesAdded": 272,
+      "totalLinesAdded": 289,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 12,
       "files": {
         "c:\\tes\\futsal\\.env": [
           {
@@ -159,6 +159,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Schemas\\FieldForm.php": [
+          {
+            "timestamp": "2025-11-08T07:29:44.263Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\Schemas\\FieldForm.php",
+            "fileType": ".php",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "php"
           }
         ]
