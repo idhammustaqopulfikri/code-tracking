@@ -486,9 +486,9 @@
       "averageChangeSize": 93.33333333333333
     },
     "futsal-recommender": {
-      "totalLinesAdded": 128,
+      "totalLinesAdded": 456,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 2,
+      "totalActiveTime": 6,
       "files": {
         "c:\\mengets\\futsal-recommender\\app\\Models\\Field.php": [
           {
@@ -550,6 +550,36 @@
             },
             "duration": 0,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-11-11T13:44:15.942Z",
+            "fileName": "c:\\mengets\\futsal-recommender\\.env",
+            "fileType": "unknown",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "futsal-recommender",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-11-11T13:41:12.031Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 262,
+            "linesRemoved": 0,
+            "projectName": "futsal-recommender",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
