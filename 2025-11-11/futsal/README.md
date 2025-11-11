@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 743                                          |
-| **Lines Removed** (➖) | 290                                        |
-| **Net Change** (↕)    | 453                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Lines Added** (➕)   | 1006                                          |
+| **Lines Removed** (➖) | 291                                        |
+| **Net Change** (↕)    | 715                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
@@ -22,10 +22,11 @@
 - **C45.php** (+160, -0)
 - **AdminPanelProvider.php** (+60, -19)
 - **TrainingRecordResource.php** (+59, -16)
-- **CreateTrainingRecord.php** (+12, -0)
+- **CreateTrainingRecord.php** (+13, -1)
 - **EditTrainingRecord.php** (+22, -1)
 - **ListTrainingRecords.php** (+20, -0)
 - **ViewTrainingRecord.php** (+20, -0)
+- **settings.json** (+262, -0)
 
 ## Visualizations
 
@@ -34,7 +35,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 1033
+".php" : 1035
+".json" : 262
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +44,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"17h" : 27
+"17h" : 30
 ```
 
 
-> **Last Updated:** 11/11/2025, 5:49:01 PM
+> **Last Updated:** 11/11/2025, 5:59:01 PM
