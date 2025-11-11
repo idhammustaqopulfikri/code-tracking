@@ -2,9 +2,9 @@
   "date": "2025-11-11",
   "projects": {
     "futsal": {
-      "totalLinesAdded": 610,
-      "totalLinesRemoved": 273,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 743,
+      "totalLinesRemoved": 290,
+      "totalActiveTime": 35,
       "files": {
         "c:\\tes\\futsal\\database\\migrations\\2025_11_08_071839_create_fields_table.php": [
           {
@@ -297,6 +297,114 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 19,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\TrainingRecordResource.php": [
+          {
+            "timestamp": "2025-11-11T10:45:43.319Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\TrainingRecordResource.php",
+            "fileType": ".php",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-11T10:47:33.630Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\TrainingRecordResource.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\Pages\\CreateTrainingRecord.php": [
+          {
+            "timestamp": "2025-11-11T10:46:37.373Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\Pages\\CreateTrainingRecord.php",
+            "fileType": ".php",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\Pages\\EditTrainingRecord.php": [
+          {
+            "timestamp": "2025-11-11T10:46:56.493Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\Pages\\EditTrainingRecord.php",
+            "fileType": ".php",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-11T10:46:58.612Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\Pages\\EditTrainingRecord.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\Pages\\ListTrainingRecords.php": [
+          {
+            "timestamp": "2025-11-11T10:47:07.909Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\Pages\\ListTrainingRecords.php",
+            "fileType": ".php",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\Pages\\ViewTrainingRecord.php": [
+          {
+            "timestamp": "2025-11-11T10:47:20.831Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\TrainingRecords\\Pages\\ViewTrainingRecord.php",
+            "fileType": ".php",
+            "linesAdded": 20,
+            "linesRemoved": 0,
             "projectName": "futsal",
             "content": {
               "added": [],
