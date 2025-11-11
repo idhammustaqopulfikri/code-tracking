@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 390                                          |
-| **Lines Removed** (➖) | 254                                        |
-| **Net Change** (↕)    | 136                |
-| **Active Time** (⌚)   | 17 minutes |
+| **Lines Added** (➕)   | 610                                          |
+| **Lines Removed** (➖) | 273                                        |
+| **Net Change** (↕)    | 337                |
+| **Active Time** (⌚)   | 24 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,8 @@
 - **2025_11_11_103623_create_mining_rules_table.php** (+28, -9)
 - **RecommendationRecord.php** (+11, -2)
 - **2025_11_11_103719_create_recommendation_records_table.php** (+28, -11)
+- **C45.php** (+160, -0)
+- **AdminPanelProvider.php** (+60, -19)
 
 ## Visualizations
 
@@ -27,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 644
+".php" : 883
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +37,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"17h" : 16
+"17h" : 20
 ```
 
 
-> **Last Updated:** 11/11/2025, 5:39:01 PM
+> **Last Updated:** 11/11/2025, 5:44:01 PM

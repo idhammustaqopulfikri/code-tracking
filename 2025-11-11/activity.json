@@ -2,9 +2,9 @@
   "date": "2025-11-11",
   "projects": {
     "futsal": {
-      "totalLinesAdded": 390,
-      "totalLinesRemoved": 254,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 610,
+      "totalLinesRemoved": 273,
+      "totalActiveTime": 24,
       "files": {
         "c:\\tes\\futsal\\database\\migrations\\2025_11_08_071839_create_fields_table.php": [
           {
@@ -237,6 +237,66 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 11,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Services\\C45\\C45.php": [
+          {
+            "timestamp": "2025-11-11T10:40:00.937Z",
+            "fileName": "c:\\tes\\futsal\\app\\Services\\C45\\C45.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-11T10:40:07.108Z",
+            "fileName": "c:\\tes\\futsal\\app\\Services\\C45\\C45.php",
+            "fileType": ".php",
+            "linesAdded": 159,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Providers\\Filament\\AdminPanelProvider.php": [
+          {
+            "timestamp": "2025-11-11T10:41:08.520Z",
+            "fileName": "c:\\tes\\futsal\\app\\Providers\\Filament\\AdminPanelProvider.php",
+            "fileType": ".php",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-11T10:41:12.588Z",
+            "fileName": "c:\\tes\\futsal\\app\\Providers\\Filament\\AdminPanelProvider.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 19,
             "projectName": "futsal",
             "content": {
               "added": [],
