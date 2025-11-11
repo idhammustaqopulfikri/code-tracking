@@ -484,6 +484,70 @@
         "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\FieldResource.php"
       ],
       "averageChangeSize": 93.33333333333333
+    },
+    "futsal-recommender": {
+      "totalLinesAdded": 62,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\mengets\\futsal-recommender\\app\\Models\\Field.php": [
+          {
+            "timestamp": "2025-11-11T12:19:09.825Z",
+            "fileName": "c:\\mengets\\futsal-recommender\\app\\Models\\Field.php",
+            "fileType": ".php",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "futsal-recommender",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\mengets\\futsal-recommender\\database\\migrations\\2025_11_11_121837_create_fields_table.php": [
+          {
+            "timestamp": "2025-11-11T12:19:47.536Z",
+            "fileName": "c:\\mengets\\futsal-recommender\\database\\migrations\\2025_11_11_121837_create_fields_table.php",
+            "fileType": ".php",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "futsal-recommender",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-11T12:19:49.766Z",
+            "fileName": "c:\\mengets\\futsal-recommender\\database\\migrations\\2025_11_11_121837_create_fields_table.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "futsal-recommender",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "19": 2
+      },
+      "topFiles": [
+        "c:\\mengets\\futsal-recommender\\database\\migrations\\2025_11_11_121837_create_fields_table.php",
+        "c:\\mengets\\futsal-recommender\\app\\Models\\Field.php"
+      ],
+      "averageChangeSize": 22.333333333333332
     }
   },
   "totalActiveTime": 3,
