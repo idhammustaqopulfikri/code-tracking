@@ -486,7 +486,7 @@
       "averageChangeSize": 93.33333333333333
     },
     "futsal-recommender": {
-      "totalLinesAdded": 62,
+      "totalLinesAdded": 128,
       "totalLinesRemoved": 5,
       "totalActiveTime": 2,
       "files": {
@@ -534,6 +534,22 @@
             },
             "duration": 1,
             "language": "php"
+          }
+        ],
+        "c:\\mengets\\futsal-recommender\\.env": [
+          {
+            "timestamp": "2025-11-11T12:44:12.847Z",
+            "fileName": "c:\\mengets\\futsal-recommender\\.env",
+            "fileType": "unknown",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "futsal-recommender",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
