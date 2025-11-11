@@ -1,0 +1,78 @@
+{
+  "date": "2025-11-11",
+  "projects": {
+    "futsal": {
+      "totalLinesAdded": 273,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\tes\\futsal\\database\\migrations\\2025_11_08_071839_create_fields_table.php": [
+          {
+            "timestamp": "2025-11-11T10:31:35.983Z",
+            "fileName": "c:\\tes\\futsal\\database\\migrations\\2025_11_08_071839_create_fields_table.php",
+            "fileType": ".php",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-11T10:31:43.686Z",
+            "fileName": "c:\\tes\\futsal\\database\\migrations\\2025_11_08_071839_create_fields_table.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\FieldResource.php": [
+          {
+            "timestamp": "2025-11-11T10:33:36.138Z",
+            "fileName": "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\FieldResource.php",
+            "fileType": ".php",
+            "linesAdded": 243,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 3
+      },
+      "changeFrequency": {
+        "17": 3
+      },
+      "topFiles": [
+        "c:\\tes\\futsal\\database\\migrations\\2025_11_08_071839_create_fields_table.php",
+        "c:\\tes\\futsal\\app\\Filament\\Resources\\Fields\\FieldResource.php"
+      ],
+      "averageChangeSize": 93.33333333333333
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
