@@ -2,7 +2,7 @@
   "date": "2025-11-11",
   "projects": {
     "futsal": {
-      "totalLinesAdded": 1006,
+      "totalLinesAdded": 1268,
       "totalLinesRemoved": 291,
       "totalActiveTime": 38,
       "files": {
@@ -455,6 +455,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-11T11:58:52.504Z",
+            "fileName": "c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 262,
+            "linesRemoved": 0,
+            "projectName": "futsal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
