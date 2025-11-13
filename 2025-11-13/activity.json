@@ -2,9 +2,9 @@
   "date": "2025-11-13",
   "projects": {
     "futsal-recommender": {
-      "totalLinesAdded": 858,
+      "totalLinesAdded": 872,
       "totalLinesRemoved": 29,
-      "totalActiveTime": 64,
+      "totalActiveTime": 65,
       "files": {
         "c:\\tes\\futsal-recommender\\.env": [
           {
@@ -534,6 +534,36 @@
             "fileName": "c:\\tes\\futsal-recommender\\app\\Filament\\Resources\\Fields\\Tables\\FieldsTable.php",
             "fileType": ".php",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "futsal-recommender",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\tes\\futsal-recommender\\app\\Filament\\Resources\\Fields\\Pages\\CreateField.php": [
+          {
+            "timestamp": "2025-11-13T08:22:47.905Z",
+            "fileName": "c:\\tes\\futsal-recommender\\app\\Filament\\Resources\\Fields\\Pages\\CreateField.php",
+            "fileType": ".php",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "futsal-recommender",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-13T08:22:51.656Z",
+            "fileName": "c:\\tes\\futsal-recommender\\app\\Filament\\Resources\\Fields\\Pages\\CreateField.php",
+            "fileType": ".php",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "futsal-recommender",
             "content": {
