@@ -2,7 +2,7 @@
   "date": "2025-11-13",
   "projects": {
     "futsal-recommender": {
-      "totalLinesAdded": 494,
+      "totalLinesAdded": 554,
       "totalLinesRemoved": 15,
       "totalActiveTime": 4,
       "files": {
@@ -110,6 +110,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\tes\\futsal-recommender\\app\\Providers\\Filament\\AdminPanelProvider.php": [
+          {
+            "timestamp": "2025-11-13T06:27:43.301Z",
+            "fileName": "c:\\tes\\futsal-recommender\\app\\Providers\\Filament\\AdminPanelProvider.php",
+            "fileType": ".php",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "futsal-recommender",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
           }
         ]
       },
