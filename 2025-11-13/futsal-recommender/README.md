@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 797                                          |
+| **Lines Added** (➕)   | 853                                          |
 | **Lines Removed** (➖) | 29                                        |
-| **Net Change** (↕)    | 768                |
-| **Active Time** (⌚)   | 54 minutes |
+| **Net Change** (↕)    | 824                |
+| **Active Time** (⌚)   | 59 minutes |
 
 
 ## Modified Files
@@ -20,6 +20,7 @@
 - **Field.php** (+34, -2)
 - **FieldResource.php** (+52, -3)
 - **FieldForm.php** (+70, -1)
+- **FieldsTable.php** (+56, -0)
 
 ## Visualizations
 
@@ -29,7 +30,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 132
-".php" : 432
+".php" : 488
 ".json" : 262
 ```
 
@@ -41,8 +42,8 @@ title Coding activity by hour (count of changes)
 "12h" : 2
 "13h" : 15
 "14h" : 13
-"15h" : 3
+"15h" : 5
 ```
 
 
-> **Last Updated:** 11/13/2025, 3:08:57 PM
+> **Last Updated:** 11/13/2025, 3:13:57 PM
