@@ -4,14 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 132                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 132                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 494                                          |
+| **Lines Removed** (➖) | 15                                        |
+| **Net Change** (↕)    | 479                |
+| **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
 - **.env** (+132, -0)
+- **User.php** (+49, -15)
+- **0001_01_01_000000_create_users_table.php** (+51, -0)
+- **settings.json** (+262, -0)
 
 ## Visualizations
 
@@ -21,6 +24,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 132
+".php" : 115
+".json" : 262
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 2
+"13h" : 5
 ```
 
 
-> **Last Updated:** 11/13/2025, 12:58:56 PM
+> **Last Updated:** 11/13/2025, 1:23:56 PM
