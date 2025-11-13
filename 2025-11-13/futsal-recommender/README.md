@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 873                                          |
-| **Lines Removed** (➖) | 29                                        |
-| **Net Change** (↕)    | 844                |
-| **Active Time** (⌚)   | 70 minutes |
+| **Lines Removed** (➖) | 43                                        |
+| **Net Change** (↕)    | 830                |
+| **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
@@ -16,11 +16,11 @@
 - **0001_01_01_000000_create_users_table.php** (+51, -0)
 - **settings.json** (+262, -0)
 - **AdminPanelProvider.php** (+119, -3)
-- **2025_11_13_072722_create_fields_table.php** (+28, -5)
-- **Field.php** (+34, -2)
+- **2025_11_13_072722_create_fields_table.php** (+28, -6)
+- **Field.php** (+34, -3)
 - **FieldResource.php** (+52, -3)
-- **FieldForm.php** (+70, -1)
-- **FieldsTable.php** (+62, -0)
+- **FieldForm.php** (+70, -9)
+- **FieldsTable.php** (+62, -4)
 - **CreateField.php** (+14, -0)
 
 ## Visualizations
@@ -31,7 +31,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 132
-".php" : 508
+".php" : 522
 ".json" : 262
 ```
 
@@ -43,8 +43,8 @@ title Coding activity by hour (count of changes)
 "12h" : 2
 "13h" : 15
 "14h" : 13
-"15h" : 10
+"15h" : 14
 ```
 
 
-> **Last Updated:** 11/13/2025, 3:28:57 PM
+> **Last Updated:** 11/13/2025, 3:33:57 PM
